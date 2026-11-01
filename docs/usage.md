@@ -30,3 +30,15 @@ node scripts/build.js
 ```
 
 Script tạo lại `js/data.js` và báo lỗi nếu có từ nào trong bài đọc không tra được trong từ điển, hoặc từ điển có ít hơn 3000 từ.
+
+## Trang trực tuyến (GitHub Pages)
+
+Địa chỉ: https://nhquan403.github.io/Vocabulary/
+
+GitHub Pages lấy nội dung từ nhánh `gh-pages`. Sau khi sửa và commit trên `master`, cập nhật trang bằng cách:
+
+```
+git push origin master:gh-pages
+```
+
+Trang thường cập nhật sau khoảng 1 phút.
