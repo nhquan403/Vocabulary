@@ -177,3 +177,4 @@ further|far
 farther|far
 elder|old
 grandchildren|grandchild
+fishermen|fisherman

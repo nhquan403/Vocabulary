@@ -23,8 +23,8 @@
     }
     if (/ing$/.test(w) && n > 4) {
       var g = w.slice(0, -3);
+      if (/y$/.test(g) && g.length <= 2) add(g.slice(0, -1) + 'ie'); // dying -> die, lying -> lie
       add(g); add(g + 'e'); add(undouble(g));
-      if (/y$/.test(g)) add(g.slice(0, -1) + 'ie');
     }
     if (/ier$/.test(w)) add(w.slice(0, -3) + 'y');
     if (/iest$/.test(w)) add(w.slice(0, -4) + 'y');
@@ -46,12 +46,19 @@
       var r = lemma(base, dict, irr);
       if (r) return r;
     }
-    var cs = candidates(w);
-    for (var i = 0; i < cs.length; i++) {
-      if (dict[cs[i]]) return cs[i];
-      if (irr[cs[i]] && dict[irr[cs[i]]]) return irr[cs[i]];
+    var found = [];
+    candidates(w).forEach(function (c) {
+      if (dict[c]) found.push(c);
+      else if (irr[c] && dict[irr[c]]) found.push(irr[c]);
+    });
+    if (!found.length) return null;
+    // "-ing"/"-ed" forms come from verbs: prefer "use" over "us", "shine" over "shin".
+    if (/(ing|ed)$/.test(w)) {
+      for (var i = 0; i < found.length; i++) {
+        if (/(^|\/)(v|modal)(\/|$)/.test(dict[found[i]].p)) return found[i];
+      }
     }
-    return null;
+    return found[0];
   }
 
   var TOKEN_RE = /[A-Za-z]+(?:['’][A-Za-z]+)?/g;

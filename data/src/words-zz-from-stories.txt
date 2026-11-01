@@ -31,3 +31,95 @@ whenever|conj|bất cứ khi nào
 wherever|conj|bất cứ nơi đâu
 wow|int|ồ, chà (ngạc nhiên)
 eleventh|adj|thứ mười một
+bloom|v|nở hoa
+centimeter|n|xăng-ti-mét
+clam|n|con nghêu
+club|n|câu lạc bộ
+cone|n|hình nón (cone hat: nón lá)
+embarrassing|adj|đáng xấu hổ, ngượng
+fisherman|n|ngư dân
+flashlight|n|đèn pin
+foreigner|n|người nước ngoài
+guesthouse|n|nhà nghỉ
+learner|n|người học
+lighthouse|n|ngọn hải đăng
+lyrics|n|lời bài hát
+native|adj|bản xứ (native speaker: người bản xứ)
+refreshing|adj|làm sảng khoái
+refrigerator|n|tủ lạnh
+sandcastle|n|lâu đài cát
+subtitle|n|phụ đề
+swimsuit|n|đồ bơi
+TV|n|ti vi
+Canada|n|nước Canada
+chemical|n|hóa chất
+crow|v/n|gáy (gà); con quạ
+expense|n|khoản chi tiêu
+fund|n|quỹ (emergency fund: quỹ khẩn cấp)
+funeral|n|đám tang
+hammock|n|cái võng
+jackfruit|n|quả mít
+longan|n|quả nhãn
+pace|n|nhịp độ
+proof|n|bằng chứng
+transport|n|phương tiện đi lại, vận chuyển
+vaccine|n|vắc-xin
+wag|v|vẫy (đuôi)
+whatever|pron|bất cứ thứ gì
+altar|n|bàn thờ
+ancestor|n|tổ tiên
+apricot|n|quả mơ (hoa mai: yellow apricot flower)
+artist|n|nghệ sĩ, chuyên viên (makeup artist: thợ trang điểm)
+barefoot|adv|chân trần
+betel|n|trầu (betel leaves: lá trầu)
+bridesmaid|n|phù dâu
+bubble|v/n|sủi bọt; bong bóng
+ceremony|n|nghi lễ
+Christmas|n|lễ Giáng sinh
+crooked|adj|cong vẹo, méo
+engagement|n|lễ đính hôn
+eve|n|đêm trước (New Year's Eve: đêm giao thừa)
+headpiece|n|khăn đội đầu, mũ đội đầu
+hometown|n|quê nhà
+incense|n|hương, nhang
+instant|adj|ăn liền (instant noodles: mì gói), tức thì
+kumquat|n|cây quất
+lantern|n|đèn lồng
+lunar|adj|âm lịch (Lunar New Year: Tết Nguyên đán)
+pickled|adj|muối chua (dưa món)
+reminder|n|lời nhắc
+resident|n|cư dân
+speech|n|bài phát biểu
+string|n|sợi dây
+unmarried|adj|chưa kết hôn
+Western|adj|kiểu phương Tây
+zodiac|n|cung hoàng đạo, con giáp
+basil|n|rau húng quế
+court|n|sân, khu (food court: khu ẩm thực), tòa án
+fertilizer|n|phân bón
+groan|v|rên rỉ, càu nhàu
+Italian|adj|thuộc về Ý
+length|n|chiều dài
+liter|n|lít
+material|n|chất liệu, vật liệu
+measurement|n|số đo
+motivated|adj|có động lực
+professional|n/adj|người chuyên nghiệp; chuyên nghiệp
+salesman|n|nhân viên bán hàng nam
+shady|adj|râm mát
+shovel|n|cái xẻng
+stressful|adj|căng thẳng, gây áp lực
+Thai|adj|thuộc về Thái Lan
+unfit|adj|không khỏe, thể lực kém
+unhealthy|adj|không lành mạnh
+tiring|adj|mệt mỏi, gây mệt
+clothing|n|quần áo, trang phục
+cooker|n|nồi nấu (rice cooker: nồi cơm điện)
+gardener|n|người làm vườn
+helper|n|người giúp đỡ
+maker|n|máy làm, người làm (coffee maker: máy pha cà phê)
+photographer|n|thợ chụp ảnh
+rubber|n|cao su
+teller|n|người kể (fortune teller: thầy bói)
+conditioner|n|máy điều hòa (air conditioner), dầu xả
+caller|n|người gọi điện

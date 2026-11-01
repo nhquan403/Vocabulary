@@ -266,7 +266,7 @@ unknown|adj|chưa biết
 unlucky|adj|không may
 unusual|adj|khác thường
 urgent|adj|khẩn cấp
-used|adj|đã qua sử dụng, quen
+used|adj|đã qua sử dụng; (quá khứ của use) đã dùng; used to: đã từng
 valuable|adj|có giá trị
 various|adj|đa dạng
 vast|adj|rộng lớn

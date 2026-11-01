@@ -1,6 +1,6 @@
 # Vocabulary reading site — plan
 
-Status: in progress
+Status: done — 20 stories, 3336 dictionary words (+25 names), build check passes
 
 ## Outcome
 Static website (no server, works offline from `index.html`) to learn English vocabulary:

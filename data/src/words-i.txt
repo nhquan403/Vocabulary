@@ -80,7 +80,7 @@ laugh|v|cười
 laundry|n|quần áo cần giặt, việc giặt giũ
 law|n|luật
 lawyer|n|luật sư
-lay|v|đặt, để
+lay|v|đặt, để; (quá khứ của lie) đã nằm
 lazy|adj|lười biếng
 lead|v|dẫn dắt
 leader|n|người lãnh đạo
@@ -89,7 +89,7 @@ learn|v|học
 least|adj|ít nhất
 leather|n|da thuộc
 leave|v|rời đi, để lại
-left|adj/n|bên trái
+left|adj/n|bên trái; (quá khứ của leave) đã rời đi, để lại
 leg|n|chân
 lemon|n|quả chanh
 lend|v|cho mượn
