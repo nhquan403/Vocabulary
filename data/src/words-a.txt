@@ -1,0 +1,210 @@
+# word|part of speech|Vietnamese meaning
+a|det|một
+able|adj|có thể, có khả năng
+about|prep|về, khoảng
+above|prep|ở trên
+abroad|adv|ở nước ngoài
+absent|adj|vắng mặt
+accept|v|chấp nhận
+accident|n|tai nạn
+account|n|tài khoản
+accurate|adj|chính xác
+ache|n|cơn đau nhức
+across|prep|băng qua, ngang qua
+act|v|hành động, diễn
+action|n|hành động
+active|adj|năng động
+activity|n|hoạt động
+actor|n|nam diễn viên
+actress|n|nữ diễn viên
+actually|adv|thật ra
+add|v|thêm vào, cộng
+address|n|địa chỉ
+admire|v|ngưỡng mộ
+admit|v|thừa nhận
+adult|n|người lớn
+advice|n|lời khuyên
+advise|v|khuyên
+afraid|adj|sợ
+after|prep|sau, sau khi
+afternoon|n|buổi chiều
+afterwards|adv|sau đó
+again|adv|lại, lần nữa
+against|prep|chống lại, dựa vào
+age|n|tuổi
+ago|adv|cách đây
+agree|v|đồng ý
+ahead|adv|phía trước
+air|n|không khí
+airport|n|sân bay
+alarm|n|chuông báo, báo thức
+alive|adj|còn sống
+all|det|tất cả
+allow|v|cho phép
+almost|adv|gần như
+alone|adj|một mình
+along|prep|dọc theo
+already|adv|đã, rồi
+also|adv|cũng
+although|conj|mặc dù
+always|adv|luôn luôn
+am|v|là (dùng với I)
+amazing|adj|tuyệt vời
+among|prep|giữa (nhiều người, vật)
+amount|n|lượng, số lượng
+an|det|một (trước nguyên âm)
+and|conj|và
+angry|adj|tức giận
+animal|n|động vật
+ankle|n|mắt cá chân
+anniversary|n|ngày kỷ niệm
+announce|v|thông báo
+another|det|một cái khác
+answer|n/v|câu trả lời; trả lời
+ant|n|con kiến
+any|det|bất kỳ, nào
+anybody|pron|bất kỳ ai
+anymore|adv|nữa (dùng trong câu phủ định)
+anyone|pron|bất kỳ ai
+anything|pron|bất cứ thứ gì
+anyway|adv|dù sao đi nữa
+anywhere|adv|bất cứ đâu
+apartment|n|căn hộ
+apologize|v|xin lỗi
+appear|v|xuất hiện
+apple|n|quả táo
+appointment|n|cuộc hẹn
+area|n|khu vực
+arm|n|cánh tay
+armchair|n|ghế bành
+around|prep|xung quanh
+arrive|v|đến nơi
+art|n|nghệ thuật
+as|conj|như, khi
+ask|v|hỏi, yêu cầu
+asleep|adj|đang ngủ
+at|prep|ở, tại, lúc
+attention|n|sự chú ý
+aunt|n|cô, dì, bác gái
+autumn|n|mùa thu
+available|adj|có sẵn, rảnh
+avoid|v|tránh
+awake|adj|thức, tỉnh
+away|adv|xa, đi khỏi
+awful|adj|tệ, kinh khủng
+baby|n|em bé
+back|n/adv|lưng; trở lại, phía sau
+backpack|n|ba lô
+bad|adj|xấu, tệ
+badly|adv|tệ, nặng
+bag|n|túi, cặp
+bake|v|nướng (bánh)
+bakery|n|tiệm bánh
+balcony|n|ban công
+ball|n|quả bóng
+banana|n|quả chuối
+band|n|ban nhạc
+bandage|n|băng gạc
+bank|n|ngân hàng
+bar|n|quán bar, thanh
+basket|n|cái giỏ
+bath|n|bồn tắm, sự tắm
+bathroom|n|phòng tắm
+battery|n|pin
+be|v|thì, là, ở
+beach|n|bãi biển
+bean|n|hạt đậu
+bear|n|con gấu
+beard|n|râu
+beautiful|adj|đẹp
+because|conj|bởi vì
+become|v|trở thành
+bed|n|giường
+bedroom|n|phòng ngủ
+bee|n|con ong
+beef|n|thịt bò
+beer|n|bia
+before|prep|trước, trước khi
+begin|v|bắt đầu
+beginning|n|sự bắt đầu, phần đầu
+behind|prep|phía sau
+believe|v|tin
+bell|n|cái chuông
+belong|v|thuộc về
+below|prep|ở dưới
+belt|n|thắt lưng
+bench|n|ghế dài
+bend|v|uốn cong, cúi xuống
+beside|prep|bên cạnh
+best|adj|tốt nhất
+better|adj|tốt hơn
+between|prep|ở giữa
+bicycle|n|xe đạp
+big|adj|to, lớn
+bike|n|xe đạp
+bill|n|hóa đơn
+bird|n|con chim
+birthday|n|sinh nhật
+biscuit|n|bánh quy
+bit|n|một chút, một mẩu
+bite|v|cắn
+bitter|adj|đắng
+black|adj|màu đen
+blanket|n|chăn, mền
+blind|adj|mù
+block|n|khối, dãy nhà
+blood|n|máu
+blow|v|thổi
+blue|adj|màu xanh dương
+board|n|tấm bảng
+boat|n|thuyền
+body|n|cơ thể
+boil|v|đun sôi, luộc
+bone|n|xương
+book|n/v|quyển sách; đặt trước
+bookshelf|n|giá sách
+boot|n|ủng, bốt
+border|n|biên giới
+bored|adj|chán
+boring|adj|nhàm chán
+born|adj|được sinh ra
+borrow|v|mượn
+boss|n|ông chủ, sếp
+both|det|cả hai
+bother|v|làm phiền
+bottle|n|cái chai
+bottom|n|đáy, phần dưới cùng
+bowl|n|cái bát, tô
+box|n|cái hộp
+boy|n|cậu bé, con trai
+boyfriend|n|bạn trai
+brain|n|bộ não
+branch|n|cành cây, chi nhánh
+brave|adj|dũng cảm
+bread|n|bánh mì
+break|v/n|làm vỡ; giờ nghỉ
+breakfast|n|bữa sáng
+breath|n|hơi thở
+breathe|v|thở
+brick|n|gạch
+bridge|n|cây cầu
+bright|adj|sáng, rực rỡ
+bring|v|mang đến
+broken|adj|bị vỡ, bị hỏng
+brother|n|anh trai, em trai
+brown|adj|màu nâu
+brush|n/v|bàn chải; chải
+bucket|n|cái xô
+build|v|xây dựng
+building|n|tòa nhà
+burn|v|đốt cháy, bị bỏng
+bus|n|xe buýt
+business|n|việc kinh doanh
+busy|adj|bận rộn
+but|conj|nhưng
+butter|n|bơ
+butterfly|n|con bướm
+button|n|cái nút, khuy áo
+buy|v|mua
+by|prep|bởi, bằng, cạnh
+bye|int|tạm biệt

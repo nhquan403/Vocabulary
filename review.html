@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ôn tập từ chưa biết</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="review">
+  <header class="topbar">
+    <a class="brand" href="index.html">📖 Học từ vựng</a>
+    <nav>
+      <a href="index.html">Bài đọc</a>
+      <a href="dictionary.html">Từ điển</a>
+      <a href="review.html" class="active">Ôn tập</a>
+    </nav>
+  </header>
+  <section class="card" id="card">
+    <div class="counter" id="counter"></div>
+    <div class="vi" id="vi"></div>
+    <div class="pos" id="pos"></div>
+    <div class="en-area">
+      <button class="speak" id="speak" type="button" title="Nghe tiếng Anh (phím S)" aria-label="Nghe tiếng Anh">🔊</button>
+      <span class="en" id="en" hidden></span>
+    </div>
+    <div class="controls">
+      <button class="btn" id="prev" type="button">← Trước</button>
+      <button class="btn primary" id="reveal" type="button">Hiện tiếng Anh</button>
+      <button class="btn" id="next" type="button">Tiếp →</button>
+    </div>
+    <div class="controls">
+      <button class="btn" id="shuffle" type="button">🔀 Xáo trộn</button>
+      <button class="btn" id="learned" type="button">✓ Đã thuộc (bỏ khỏi danh sách)</button>
+    </div>
+    <div class="hint">Phím tắt: Space = hiện/ẩn tiếng Anh · ← → = chuyển từ · S = nghe phát âm</div>
+  </section>
+  <script src="js/data.js"></script>
+  <script src="js/lemma.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/review.js"></script>
+</body>
+</html>

@@ -1,0 +1,292 @@
+# word|part of speech|Vietnamese meaning
+each|det|mỗi
+ear|n|tai
+early|adj/adv|sớm
+earn|v|kiếm (tiền)
+earth|n|trái đất, đất
+easily|adv|dễ dàng
+east|n|phía đông
+easy|adj|dễ
+eat|v|ăn
+edge|n|cạnh, mép
+education|n|giáo dục
+egg|n|quả trứng
+eight|num|số tám
+eighteen|num|mười tám
+eighty|num|tám mươi
+either|det|một trong hai, cũng (không)
+elbow|n|khuỷu tay
+elderly|adj|cao tuổi
+electric|adj|thuộc về điện
+electricity|n|điện
+elephant|n|con voi
+elevator|n|thang máy
+eleven|num|mười một
+else|adv|khác
+email|n|thư điện tử
+embarrassed|adj|xấu hổ, ngượng
+emergency|n|trường hợp khẩn cấp
+empty|adj|trống rỗng
+end|n/v|kết thúc; phần cuối
+enemy|n|kẻ thù
+energy|n|năng lượng
+engine|n|động cơ
+engineer|n|kỹ sư
+English|n/adj|tiếng Anh; thuộc nước Anh
+enjoy|v|thích, thưởng thức
+enough|adj/adv|đủ
+enter|v|đi vào
+entrance|n|lối vào
+envelope|n|phong bì
+environment|n|môi trường
+equal|adj|bằng nhau
+eraser|n|cục tẩy
+error|n|lỗi
+especially|adv|đặc biệt là
+even|adv|thậm chí
+evening|n|buổi tối
+event|n|sự kiện
+ever|adv|từng, bao giờ
+every|det|mỗi, mọi
+everybody|pron|mọi người
+everyday|adj|hằng ngày
+everyone|pron|mọi người
+everything|pron|mọi thứ
+everywhere|adv|mọi nơi
+exact|adj|chính xác
+exactly|adv|chính xác
+exam|n|kỳ thi
+example|n|ví dụ
+excellent|adj|xuất sắc
+except|prep|ngoại trừ
+exchange|v|trao đổi
+excited|adj|hào hứng
+exciting|adj|thú vị, gây hứng thú
+excuse|n/v|lời bào chữa; tha lỗi
+exercise|n/v|bài tập, thể dục; tập luyện
+exit|n|lối ra
+expect|v|mong đợi
+expensive|adj|đắt
+experience|n|kinh nghiệm, trải nghiệm
+explain|v|giải thích
+extra|adj|thêm, phụ
+eye|n|mắt
+eyebrow|n|lông mày
+face|n/v|khuôn mặt; đối mặt
+fact|n|sự thật
+factory|n|nhà máy
+fail|v|thất bại, trượt
+fair|adj|công bằng
+fall|v/n|ngã, rơi; mùa thu
+false|adj|sai
+familiar|adj|quen thuộc
+family|n|gia đình
+famous|adj|nổi tiếng
+fan|n|cái quạt, người hâm mộ
+far|adv/adj|xa
+farm|n|nông trại
+farmer|n|nông dân
+fashion|n|thời trang
+fast|adj/adv|nhanh
+fat|adj/n|béo; chất béo
+father|n|bố, cha
+fault|n|lỗi
+favorite|adj|yêu thích
+fear|n|nỗi sợ
+feed|v|cho ăn
+feel|v|cảm thấy
+feeling|n|cảm giác
+fence|n|hàng rào
+festival|n|lễ hội
+fever|n|sốt
+few|det|ít, một vài
+field|n|cánh đồng
+fifteen|num|mười lăm
+fifty|num|năm mươi
+fight|v/n|đánh nhau; cuộc chiến
+fill|v|làm đầy
+film|n|bộ phim
+final|adj|cuối cùng
+finally|adv|cuối cùng
+find|v|tìm thấy
+fine|adj|ổn, khỏe
+finger|n|ngón tay
+finish|v|hoàn thành, kết thúc
+fire|n|lửa, đám cháy
+firm|adj|chắc chắn
+first|adj/adv|đầu tiên
+fish|n/v|con cá; câu cá
+fit|v/adj|vừa vặn; cân đối, khỏe
+five|num|số năm
+fix|v|sửa chữa
+flag|n|lá cờ
+flat|adj|phẳng
+flight|n|chuyến bay
+floor|n|sàn nhà, tầng
+flour|n|bột mì
+flower|n|bông hoa
+flu|n|bệnh cúm
+fly|v/n|bay; con ruồi
+fold|v|gấp
+follow|v|đi theo
+food|n|thức ăn
+foot|n|bàn chân
+football|n|bóng đá
+for|prep|cho, trong (thời gian)
+foreign|adj|nước ngoài
+forest|n|khu rừng
+forever|adv|mãi mãi
+forget|v|quên
+forgive|v|tha thứ
+fork|n|cái nĩa
+form|n|mẫu đơn, hình dạng
+forty|num|bốn mươi
+forward|adv|về phía trước
+four|num|số bốn
+fourteen|num|mười bốn
+free|adj|miễn phí, tự do, rảnh
+freedom|n|sự tự do
+freeze|v|đóng băng
+fresh|adj|tươi
+fridge|n|tủ lạnh
+fried|adj|chiên, rán
+friend|n|bạn bè
+friendly|adj|thân thiện
+friendship|n|tình bạn
+frightened|adj|hoảng sợ
+frog|n|con ếch
+from|prep|từ
+front|n|phía trước
+fruit|n|trái cây
+fry|v|chiên, rán
+full|adj|đầy, no
+fun|n/adj|niềm vui; vui
+funny|adj|buồn cười
+furniture|n|đồ nội thất
+future|n|tương lai
+gain|v|đạt được, tăng
+game|n|trò chơi
+garage|n|nhà để xe
+garden|n|khu vườn
+garlic|n|tỏi
+gas|n|khí ga, xăng
+gate|n|cổng
+general|adj|chung
+generous|adj|hào phóng
+gentle|adj|nhẹ nhàng, hiền
+get|v|nhận, lấy, trở nên
+gift|n|món quà
+ginger|n|gừng
+girl|n|cô gái
+girlfriend|n|bạn gái
+give|v|đưa, cho
+glad|adj|vui mừng
+glass|n|cái ly, thủy tinh
+glasses|n|kính mắt
+glove|n|găng tay
+go|v|đi
+goal|n|mục tiêu, bàn thắng
+god|n|thượng đế
+gold|n|vàng
+golden|adj|bằng vàng, màu vàng
+good|adj|tốt
+goodbye|int|tạm biệt
+government|n|chính phủ
+grade|n|điểm, lớp
+grain|n|hạt ngũ cốc
+gram|n|gam
+grandchild|n|cháu (của ông bà)
+granddaughter|n|cháu gái
+grandfather|n|ông
+grandma|n|bà
+grandmother|n|bà
+grandpa|n|ông
+grandparent|n|ông bà
+grandson|n|cháu trai
+grape|n|quả nho
+grass|n|cỏ
+grateful|adj|biết ơn
+gray|adj|màu xám
+great|adj|tuyệt vời, lớn
+green|adj|màu xanh lá
+greet|v|chào hỏi
+ground|n|mặt đất
+group|n|nhóm
+grow|v|lớn lên, trồng
+guess|v|đoán
+guest|n|khách
+guide|n|hướng dẫn viên
+guitar|n|đàn ghi-ta
+gym|n|phòng tập thể dục
+habit|n|thói quen
+hair|n|tóc
+haircut|n|kiểu tóc, việc cắt tóc
+half|n|một nửa
+hall|n|hội trường, hành lang
+hand|n|bàn tay
+handsome|adj|đẹp trai
+hang|v|treo
+happen|v|xảy ra
+happiness|n|niềm hạnh phúc
+happy|adj|vui vẻ, hạnh phúc
+hard|adj/adv|khó, cứng; chăm chỉ
+hardly|adv|hầu như không
+hat|n|cái mũ
+hate|v|ghét
+have|v|có
+he|pron|anh ấy, ông ấy
+head|n|cái đầu
+headache|n|đau đầu
+health|n|sức khỏe
+healthy|adj|khỏe mạnh
+hear|v|nghe
+heart|n|trái tim
+heat|n|sức nóng
+heater|n|máy sưởi
+heavy|adj|nặng
+height|n|chiều cao
+hello|int|xin chào
+helmet|n|mũ bảo hiểm
+help|v/n|giúp đỡ; sự giúp đỡ
+helpful|adj|có ích
+her|pron|cô ấy, của cô ấy
+here|adv|ở đây
+hero|n|anh hùng
+hers|pron|của cô ấy
+herself|pron|chính cô ấy
+hi|int|chào
+hide|v|trốn, giấu
+high|adj|cao
+hill|n|ngọn đồi
+him|pron|anh ấy, ông ấy
+himself|pron|chính anh ấy
+hire|v|thuê
+his|pron|của anh ấy
+history|n|lịch sử
+hit|v|đánh, đụng
+hobby|n|sở thích
+hold|v|cầm, giữ
+hole|n|cái lỗ
+holiday|n|kỳ nghỉ, ngày lễ
+home|n|nhà
+homework|n|bài tập về nhà
+honest|adj|trung thực
+honey|n|mật ong
+hope|v/n|hy vọng
+horse|n|con ngựa
+hospital|n|bệnh viện
+hot|adj|nóng, cay
+hotel|n|khách sạn
+hour|n|giờ, tiếng đồng hồ
+house|n|ngôi nhà
+housework|n|việc nhà
+how|adv|như thế nào
+however|adv|tuy nhiên
+hug|v/n|ôm; cái ôm
+huge|adj|khổng lồ
+human|n|con người
+hundred|num|một trăm
+hungry|adj|đói
+hurry|v|vội vàng
+hurt|v|làm đau, bị đau
+husband|n|chồng

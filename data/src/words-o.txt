@@ -1,0 +1,425 @@
+# word|part of speech|Vietnamese meaning
+obey|v|vâng lời
+object|n|đồ vật
+ocean|n|đại dương
+o'clock|adv|giờ (đúng)
+of|prep|của
+off|adv|tắt, rời khỏi
+offer|v/n|đề nghị; lời đề nghị
+office|n|văn phòng
+officer|n|sĩ quan, nhân viên
+often|adv|thường xuyên
+oil|n|dầu
+okay|adj|ổn, được
+old|adj|cũ, già
+on|prep|trên, vào (ngày)
+once|adv|một lần, đã từng
+one|num|số một
+onion|n|củ hành
+online|adj/adv|trực tuyến
+only|adv|chỉ
+open|v/adj|mở; đang mở
+opinion|n|ý kiến
+opportunity|n|cơ hội
+opposite|prep/adj|đối diện; ngược lại
+or|conj|hoặc
+orange|n/adj|quả cam; màu cam
+order|v/n|gọi món, đặt hàng; mệnh lệnh
+ordinary|adj|bình thường
+other|adj|khác
+our|det|của chúng tôi
+ours|pron|của chúng tôi
+ourselves|pron|chính chúng tôi
+out|adv|ra ngoài
+outdoor|adj|ngoài trời
+outside|adv/prep|bên ngoài
+oven|n|lò nướng
+over|prep|trên, qua, hơn
+own|adj/v|của riêng; sở hữu
+owner|n|người chủ
+pack|v|đóng gói
+package|n|gói hàng
+page|n|trang
+pain|n|cơn đau
+painful|adj|đau đớn
+paint|v/n|sơn, vẽ; sơn
+painting|n|bức tranh
+pair|n|đôi, cặp
+pajamas|n|bộ đồ ngủ
+pan|n|cái chảo
+pants|n|quần dài
+paper|n|giấy
+parent|n|cha mẹ
+park|n/v|công viên; đỗ xe
+parking|n|việc đỗ xe, bãi đỗ
+part|n|phần
+partner|n|đối tác, bạn đời
+party|n|bữa tiệc
+pass|v|đi qua, vượt qua (kỳ thi), chuyền
+passenger|n|hành khách
+passport|n|hộ chiếu
+past|n/prep|quá khứ; qua
+path|n|con đường nhỏ
+patient|n/adj|bệnh nhân; kiên nhẫn
+pay|v|trả tiền
+peace|n|hòa bình
+peaceful|adj|yên bình
+pen|n|cây bút
+pencil|n|bút chì
+people|n|mọi người
+pepper|n|hạt tiêu, ớt chuông
+per|prep|mỗi
+percent|n|phần trăm
+perfect|adj|hoàn hảo
+perhaps|adv|có lẽ
+period|n|giai đoạn
+person|n|người
+personal|adj|cá nhân
+pet|n|thú cưng
+phone|n|điện thoại
+photo|n|bức ảnh
+photograph|n|bức ảnh
+piano|n|đàn piano
+pick|v|chọn, hái
+picnic|n|buổi dã ngoại
+picture|n|bức tranh, hình ảnh
+pie|n|bánh nướng có nhân
+piece|n|mảnh, miếng
+pig|n|con lợn
+pill|n|viên thuốc
+pillow|n|cái gối
+pink|adj|màu hồng
+pity|n|điều đáng tiếc
+pizza|n|bánh pizza
+place|n|nơi, chỗ
+plan|n/v|kế hoạch; lên kế hoạch
+plane|n|máy bay
+plant|n/v|cây; trồng
+plastic|n|nhựa
+plate|n|cái đĩa
+play|v|chơi
+player|n|người chơi
+playground|n|sân chơi
+pleasant|adj|dễ chịu
+please|adv|làm ơn
+pleased|adj|hài lòng
+pleasure|n|niềm vui
+plenty|pron|nhiều
+pocket|n|túi áo, túi quần
+poem|n|bài thơ
+point|n/v|điểm; chỉ tay
+police|n|cảnh sát
+polite|adj|lịch sự
+pollution|n|ô nhiễm
+pool|n|hồ bơi
+poor|adj|nghèo, tội nghiệp
+popular|adj|phổ biến
+pork|n|thịt lợn
+possible|adj|có thể
+post|n/v|bưu điện, bài đăng; gửi
+postcard|n|bưu thiếp
+pot|n|cái nồi, chậu
+potato|n|khoai tây
+pound|n|bảng Anh, pao
+pour|v|rót, đổ
+power|n|sức mạnh, điện
+practice|v/n|luyện tập; sự luyện tập
+prefer|v|thích hơn
+prepare|v|chuẩn bị
+present|n|món quà, hiện tại
+press|v|ấn, nhấn
+pretty|adj/adv|xinh đẹp; khá
+prevent|v|ngăn chặn
+price|n|giá cả
+pride|n|niềm tự hào
+print|v|in
+prison|n|nhà tù
+private|adj|riêng tư
+prize|n|giải thưởng
+probably|adv|có lẽ
+problem|n|vấn đề
+produce|v|sản xuất
+product|n|sản phẩm
+program|n|chương trình
+promise|v/n|hứa; lời hứa
+protect|v|bảo vệ
+proud|adj|tự hào
+provide|v|cung cấp
+public|adj|công cộng
+pull|v|kéo
+pumpkin|n|quả bí ngô
+punish|v|trừng phạt
+pupil|n|học sinh
+purple|adj|màu tím
+purpose|n|mục đích
+purse|n|ví nữ
+push|v|đẩy
+put|v|đặt, để
+quarter|n|một phần tư, 15 phút
+queen|n|nữ hoàng
+question|n|câu hỏi
+queue|n|hàng người
+quick|adj|nhanh
+quickly|adv|nhanh chóng
+quiet|adj|yên tĩnh
+quietly|adv|lặng lẽ
+quite|adv|khá
+rabbit|n|con thỏ
+race|n|cuộc đua
+radio|n|đài radio
+rain|n/v|mưa
+raincoat|n|áo mưa
+rainy|adj|có mưa
+raise|v|nâng lên, nuôi
+rarely|adv|hiếm khi
+rather|adv|khá, thà
+raw|adj|sống, chưa nấu
+reach|v|với tới, đến được
+read|v|đọc
+ready|adj|sẵn sàng
+real|adj|thật
+realize|v|nhận ra
+really|adv|thật sự
+reason|n|lý do
+receive|v|nhận
+recent|adj|gần đây
+recently|adv|gần đây
+recipe|n|công thức nấu ăn
+recognize|v|nhận ra
+record|v/n|ghi lại; kỷ lục
+red|adj|màu đỏ
+refuse|v|từ chối
+relax|v|thư giãn
+relative|n|họ hàng
+remember|v|nhớ
+remind|v|nhắc nhở
+remote|n/adj|điều khiển từ xa; xa xôi
+remove|v|loại bỏ
+rent|v/n|thuê; tiền thuê
+repair|v|sửa chữa
+repeat|v|lặp lại
+reply|v|trả lời
+report|n/v|báo cáo
+rest|n/v|sự nghỉ ngơi; nghỉ ngơi
+restaurant|n|nhà hàng
+result|n|kết quả
+return|v|trở lại, trả lại
+rice|n|gạo, cơm
+rich|adj|giàu
+ride|v|cưỡi, đi (xe)
+right|adj/n|đúng, bên phải; quyền
+ring|n/v|chiếc nhẫn; reo, gọi điện
+ripe|adj|chín
+rise|v|tăng lên, mọc
+river|n|dòng sông
+road|n|con đường
+rock|n|hòn đá
+role|n|vai trò
+roof|n|mái nhà
+room|n|căn phòng
+root|n|rễ cây
+rope|n|sợi dây thừng
+rose|n|hoa hồng
+rough|adj|thô ráp, khó khăn
+round|adj|tròn
+row|n|hàng, dãy
+rubbish|n|rác
+rude|adj|thô lỗ
+rule|n|quy tắc
+ruler|n|cái thước
+run|v|chạy
+rush|v|vội vã
+sad|adj|buồn
+sadly|adv|buồn bã, đáng tiếc
+safe|adj|an toàn
+safety|n|sự an toàn
+salad|n|món rau trộn
+salary|n|tiền lương
+sale|n|sự bán, đợt giảm giá
+salt|n|muối
+salty|adj|mặn
+same|adj|giống nhau
+sand|n|cát
+sandwich|n|bánh mì kẹp
+satisfied|adj|hài lòng
+sauce|n|nước sốt
+save|v|tiết kiệm, cứu
+say|v|nói
+scared|adj|sợ hãi
+scarf|n|khăn quàng cổ
+school|n|trường học
+science|n|khoa học
+scissors|n|cái kéo
+score|n|điểm số
+screen|n|màn hình
+sea|n|biển
+seafood|n|hải sản
+search|v|tìm kiếm
+season|n|mùa
+seat|n|chỗ ngồi
+second|adj/n|thứ hai; giây
+secret|n|bí mật
+see|v|nhìn thấy
+seed|n|hạt giống
+seem|v|có vẻ
+sell|v|bán
+send|v|gửi
+sense|n|giác quan, ý nghĩa
+sentence|n|câu
+separate|adj|riêng biệt
+serious|adj|nghiêm túc, nghiêm trọng
+serve|v|phục vụ
+service|n|dịch vụ
+set|v/n|đặt; bộ
+seven|num|số bảy
+seventeen|num|mười bảy
+seventy|num|bảy mươi
+several|det|một vài
+shade|n|bóng râm
+shadow|n|cái bóng
+shake|v|lắc, run
+shall|modal|sẽ
+shape|n|hình dạng
+share|v|chia sẻ
+sharp|adj|sắc nhọn
+she|pron|cô ấy, bà ấy
+sheep|n|con cừu
+sheet|n|tờ (giấy), ga trải giường
+shelf|n|cái kệ
+shine|v|chiếu sáng
+ship|n|con tàu
+shirt|n|áo sơ mi
+shoe|n|chiếc giày
+shop|n/v|cửa hàng; mua sắm
+shopping|n|việc mua sắm
+short|adj|ngắn, thấp
+shorts|n|quần đùi
+should|modal|nên
+shoulder|n|vai
+shout|v|hét lên
+show|v/n|cho xem; buổi biểu diễn
+shower|n|vòi sen, sự tắm vòi sen
+shy|adj|nhút nhát
+sick|adj|ốm
+side|n|bên, phía
+sign|n/v|biển báo; ký tên
+silence|n|sự im lặng
+silent|adj|im lặng
+silly|adj|ngớ ngẩn
+silver|n|bạc
+simple|adj|đơn giản
+since|prep|từ khi
+sing|v|hát
+singer|n|ca sĩ
+single|adj|độc thân, đơn
+sink|n|bồn rửa
+sister|n|chị gái, em gái
+sit|v|ngồi
+situation|n|tình huống
+six|num|số sáu
+sixteen|num|mười sáu
+sixty|num|sáu mươi
+size|n|kích cỡ
+skill|n|kỹ năng
+skin|n|da
+skirt|n|váy ngắn
+sky|n|bầu trời
+sleep|v/n|ngủ; giấc ngủ
+sleepy|adj|buồn ngủ
+slice|n|lát mỏng
+slim|adj|mảnh mai
+slow|adj|chậm
+slowly|adv|chậm rãi
+small|adj|nhỏ
+smart|adj|thông minh
+smell|v/n|ngửi, có mùi; mùi
+smile|v/n|cười; nụ cười
+smoke|n/v|khói; hút thuốc
+snack|n|đồ ăn vặt
+snake|n|con rắn
+snow|n/v|tuyết; tuyết rơi
+so|adv/conj|rất, vì vậy
+soap|n|xà phòng
+soccer|n|bóng đá
+sock|n|chiếc tất
+sofa|n|ghế sofa
+soft|adj|mềm
+soil|n|đất trồng
+soldier|n|người lính
+some|det|một vài, một ít
+somebody|pron|ai đó
+someone|pron|ai đó
+something|pron|cái gì đó
+sometimes|adv|thỉnh thoảng
+somewhere|adv|nơi nào đó
+son|n|con trai
+song|n|bài hát
+soon|adv|sớm
+sorry|adj|xin lỗi, tiếc
+sound|n/v|âm thanh; nghe có vẻ
+soup|n|món súp, canh
+sour|adj|chua
+south|n|phía nam
+space|n|không gian, chỗ trống
+speak|v|nói
+special|adj|đặc biệt
+speed|n|tốc độ
+spell|v|đánh vần
+spend|v|tiêu (tiền), dành (thời gian)
+spicy|adj|cay
+spoon|n|cái thìa
+sport|n|thể thao
+spring|n|mùa xuân
+square|n|hình vuông, quảng trường
+stairs|n|cầu thang
+stamp|n|con tem
+stand|v|đứng
+star|n|ngôi sao
+start|v|bắt đầu
+station|n|nhà ga, trạm
+stay|v|ở lại
+steal|v|ăn trộm
+step|n|bước
+stick|n|cái que
+still|adv|vẫn
+stomach|n|dạ dày, bụng
+stone|n|hòn đá
+stop|v|dừng lại
+store|n|cửa hàng
+storm|n|cơn bão
+story|n|câu chuyện
+stove|n|bếp lò
+straight|adj/adv|thẳng
+strange|adj|lạ
+stranger|n|người lạ
+street|n|đường phố
+stress|n|căng thẳng
+strong|adj|mạnh mẽ
+student|n|học sinh, sinh viên
+study|v|học
+stupid|adj|ngu ngốc
+subject|n|môn học, chủ đề
+success|n|sự thành công
+successful|adj|thành công
+such|det|như vậy
+sudden|adj|đột ngột
+suddenly|adv|đột nhiên
+sugar|n|đường
+suggest|v|gợi ý
+suit|n|bộ com-lê
+suitcase|n|va li
+summer|n|mùa hè
+sun|n|mặt trời
+sunny|adj|có nắng
+supermarket|n|siêu thị
+support|v|ủng hộ, hỗ trợ
+suppose|v|cho rằng
+sure|adj|chắc chắn
+surprise|n/v|sự ngạc nhiên; làm ngạc nhiên
+surprised|adj|ngạc nhiên
+sweater|n|áo len
+sweep|v|quét
+sweet|adj|ngọt
+swim|v|bơi
+swimming|n|môn bơi lội
+switch|v/n|chuyển, bật/tắt; công tắc

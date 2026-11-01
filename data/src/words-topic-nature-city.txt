@@ -1,0 +1,151 @@
+# word|part of speech|Vietnamese meaning
+# --- nature, weather, animals ---
+bay|n|vịnh
+breeze|n|gió nhẹ
+bush|n|bụi cây
+cave|n|hang động
+chick|n|gà con
+cliff|n|vách đá
+climate|n|khí hậu
+coast|n|bờ biển
+deer|n|con hươu
+desert|n|sa mạc
+dolphin|n|cá heo
+dove|n|chim bồ câu
+drought|n|hạn hán
+dusk|n|hoàng hôn, chạng vạng
+eagle|n|đại bàng
+earthquake|n|động đất
+fog|n|sương mù
+foggy|adj|có sương mù
+fox|n|con cáo
+frost|n|sương giá
+goat|n|con dê
+goose|n|con ngỗng
+hen|n|gà mái
+hurricane|n|bão lớn
+insect|n|côn trùng
+jungle|n|rừng rậm
+kitten|n|mèo con
+lightning|n|tia chớp
+lion|n|sư tử
+mosquito|n|con muỗi
+nest|n|tổ chim
+owl|n|con cú
+parrot|n|con vẹt
+peak|n|đỉnh núi
+pond|n|cái ao
+puppy|n|chó con
+rainbow|n|cầu vồng
+rooster|n|gà trống
+seashell|n|vỏ sò
+shore|n|bờ biển, bờ hồ
+snail|n|con ốc sên
+spider|n|con nhện
+stream|n|dòng suối
+sunrise|n|bình minh
+sunset|n|hoàng hôn
+sunshine|n|ánh nắng
+thunder|n|sấm
+tide|n|thủy triều
+turtle|n|con rùa
+waterfall|n|thác nước
+whale|n|cá voi
+wildlife|n|động vật hoang dã
+wolf|n|con sói
+worm|n|con sâu, giun
+zebra|n|ngựa vằn
+bamboo|n|cây tre
+blossom|n|hoa (của cây)
+buffalo|n|con trâu
+crop|n|vụ mùa
+dew|n|sương
+flood|n|lũ lụt
+heatwave|n|đợt nắng nóng
+humid|adj|ẩm ướt
+lotus|n|hoa sen
+moonlight|n|ánh trăng
+paddy|n|ruộng lúa
+petal|n|cánh hoa
+pine|n|cây thông
+planet|n|hành tinh
+seaside|n|bờ biển
+sky|n|bầu trời
+starry|adj|đầy sao
+storm|n|cơn bão
+sunflower|n|hoa hướng dương
+trunk|n|thân cây, vòi voi
+weed|n|cỏ dại
+# --- transport, city, travel ---
+avenue|n|đại lộ
+baggage|n|hành lý
+boarding|n|việc lên máy bay, tàu
+canal|n|kênh đào
+coach|n|xe khách, huấn luyện viên
+crossing|n|chỗ băng qua đường
+crossroads|n|ngã tư
+departure|n|sự khởi hành
+destination|n|điểm đến
+downtown|n|trung tâm thành phố
+fare|n|giá vé
+ferry|n|phà
+fuel|n|nhiên liệu
+highway|n|đường cao tốc
+hostel|n|nhà nghỉ giá rẻ
+lane|n|làn đường, ngõ
+luggage|n|hành lý
+motorway|n|đường cao tốc
+pavement|n|vỉa hè
+pedestrian|n|người đi bộ
+platform|n|sân ga
+port|n|cảng
+railway|n|đường sắt
+reservation|n|sự đặt chỗ trước
+roundabout|n|vòng xuyến
+route|n|tuyến đường
+scooter|n|xe tay ga
+sidewalk|n|vỉa hè
+sightseeing|n|việc ngắm cảnh
+souvenir|n|quà lưu niệm
+subway|n|tàu điện ngầm
+suburb|n|ngoại ô
+taxi|n|xe taxi
+terminal|n|nhà ga sân bay
+tunnel|n|đường hầm
+underground|adj/n|dưới lòng đất; tàu điện ngầm
+vehicle|n|phương tiện
+visa|n|thị thực
+wheel|n|bánh xe
+alley|n|con hẻm
+bakery|n|tiệm bánh
+bookstore|n|hiệu sách
+cafe|n|quán cà phê
+drugstore|n|hiệu thuốc
+fountain|n|đài phun nước
+mall|n|trung tâm thương mại
+pagoda|n|ngôi chùa
+skyscraper|n|tòa nhà chọc trời
+stadium|n|sân vận động
+statue|n|bức tượng
+traffic|n|giao thông
+crosswalk|n|vạch qua đường
+signpost|n|biển chỉ đường
+honk|v|bấm còi
+park|v|đỗ xe
+passenger|n|hành khách
+seatbelt|n|dây an toàn
+brake|n/v|phanh; phanh lại
+speed|n|tốc độ
+lorry|n|xe tải
+van|n|xe tải nhỏ
+pickup|n|việc đón
+rideshare|n|đi chung xe
+map|n|bản đồ
+compass|n|la bàn
+tourist|n|khách du lịch
+abroad|adv|ở nước ngoài
+explore|v|khám phá
+guidebook|n|sách hướng dẫn du lịch
+journey|n|chuyến đi
+landmark|n|địa danh
+scenery|n|phong cảnh

@@ -1,0 +1,222 @@
+# word|part of speech|Vietnamese meaning
+cabbage|n|bắp cải
+cafe|n|quán cà phê
+cage|n|cái lồng
+cake|n|bánh ngọt
+calendar|n|lịch
+call|v/n|gọi; cuộc gọi
+calm|adj|bình tĩnh
+camera|n|máy ảnh
+camp|n/v|trại; cắm trại
+can|modal/n|có thể; cái lon
+cancel|v|hủy bỏ
+candle|n|cây nến
+candy|n|kẹo
+cap|n|mũ lưỡi trai
+capital|n|thủ đô
+car|n|xe hơi
+card|n|tấm thiệp, thẻ
+care|n/v|sự chăm sóc; quan tâm
+careful|adj|cẩn thận
+carefully|adv|một cách cẩn thận
+careless|adj|bất cẩn
+carpet|n|tấm thảm
+carrot|n|cà rốt
+carry|v|mang, xách
+case|n|trường hợp, cái hộp
+cash|n|tiền mặt
+cat|n|con mèo
+catch|v|bắt, đón (xe)
+cause|v/n|gây ra; nguyên nhân
+ceiling|n|trần nhà
+celebrate|v|ăn mừng
+cent|n|xu (tiền)
+center|n|trung tâm
+century|n|thế kỷ
+certain|adj|chắc chắn
+certainly|adv|chắc chắn
+chair|n|cái ghế
+chance|n|cơ hội
+change|v/n|thay đổi; tiền thối lại
+channel|n|kênh
+charge|v|sạc (pin), tính tiền
+cheap|adj|rẻ
+check|v|kiểm tra
+cheek|n|má
+cheer|v|cổ vũ
+cheese|n|phô mai
+chef|n|đầu bếp
+chest|n|ngực
+chicken|n|con gà, thịt gà
+child|n|đứa trẻ
+childhood|n|tuổi thơ
+chili|n|ớt
+chin|n|cằm
+chocolate|n|sô-cô-la
+choice|n|sự lựa chọn
+choose|v|chọn
+chopsticks|n|đôi đũa
+church|n|nhà thờ
+cinema|n|rạp chiếu phim
+circle|n|hình tròn
+city|n|thành phố
+class|n|lớp học
+classmate|n|bạn cùng lớp
+classroom|n|phòng học
+clean|adj/v|sạch; lau dọn
+clear|adj|rõ ràng, trong
+clearly|adv|rõ ràng
+clever|adj|thông minh, khéo léo
+climb|v|leo, trèo
+clinic|n|phòng khám
+clock|n|đồng hồ (treo tường)
+close|v/adj|đóng; gần
+closed|adj|đóng cửa
+closet|n|tủ quần áo
+cloth|n|vải, khăn lau
+clothes|n|quần áo
+cloud|n|đám mây
+cloudy|adj|nhiều mây
+coat|n|áo khoác
+coconut|n|quả dừa
+coffee|n|cà phê
+coin|n|đồng xu
+cold|adj/n|lạnh; cảm lạnh
+collect|v|thu thập, sưu tầm
+college|n|trường cao đẳng, đại học
+color|n|màu sắc
+comb|n|cái lược
+come|v|đến
+comfortable|adj|thoải mái
+common|adj|phổ biến, chung
+company|n|công ty
+compare|v|so sánh
+complain|v|phàn nàn
+complete|v/adj|hoàn thành; đầy đủ
+computer|n|máy tính
+concert|n|buổi hòa nhạc
+condition|n|điều kiện, tình trạng
+confident|adj|tự tin
+confused|adj|bối rối
+congratulations|int|chúc mừng
+connect|v|kết nối
+contact|v|liên lạc
+continue|v|tiếp tục
+control|v/n|điều khiển; sự kiểm soát
+conversation|n|cuộc trò chuyện
+cook|v/n|nấu ăn; đầu bếp
+cookie|n|bánh quy
+cooking|n|việc nấu ăn
+cool|adj|mát, ngầu
+copy|v/n|sao chép; bản sao
+corn|n|ngô, bắp
+corner|n|góc
+correct|adj|đúng
+cost|v/n|có giá; chi phí
+cotton|n|bông, vải cotton
+couch|n|ghế sofa
+cough|v/n|ho; cơn ho
+could|modal|có thể (quá khứ của can)
+count|v|đếm
+country|n|đất nước, nông thôn
+countryside|n|vùng nông thôn
+couple|n|cặp đôi, vài
+course|n|khóa học
+cousin|n|anh chị em họ
+cover|v|che, phủ
+cow|n|con bò
+crab|n|con cua
+crazy|adj|điên, điên rồ
+cream|n|kem
+create|v|tạo ra
+credit|n|tín dụng
+crime|n|tội ác
+cross|v|băng qua
+crowd|n|đám đông
+crowded|adj|đông đúc
+cry|v|khóc
+cucumber|n|dưa chuột
+culture|n|văn hóa
+cup|n|cái cốc, tách
+cupboard|n|tủ chén
+cure|v|chữa khỏi
+curious|adj|tò mò
+curtain|n|rèm cửa
+customer|n|khách hàng
+cut|v|cắt
+cute|adj|dễ thương
+cycle|v|đạp xe
+dad|n|bố
+daily|adj|hằng ngày
+damage|n/v|thiệt hại; làm hư hại
+dance|v/n|nhảy múa; điệu nhảy
+danger|n|sự nguy hiểm
+dangerous|adj|nguy hiểm
+dark|adj|tối
+date|n|ngày tháng, buổi hẹn
+daughter|n|con gái
+day|n|ngày
+dead|adj|chết
+deal|n|thỏa thuận
+dear|adj|thân mến
+death|n|cái chết
+decide|v|quyết định
+decision|n|quyết định
+deep|adj|sâu
+deeply|adv|sâu sắc
+degree|n|độ, bằng cấp
+delicious|adj|ngon
+deliver|v|giao hàng
+dentist|n|nha sĩ
+department|n|phòng ban, bộ phận
+depend|v|phụ thuộc
+describe|v|miêu tả
+desk|n|bàn làm việc
+dessert|n|món tráng miệng
+destroy|v|phá hủy
+detail|n|chi tiết
+develop|v|phát triển
+diary|n|nhật ký
+dictionary|n|từ điển
+die|v|chết
+diet|n|chế độ ăn
+difference|n|sự khác biệt
+different|adj|khác nhau
+difficult|adj|khó
+difficulty|n|sự khó khăn
+dig|v|đào
+dining|n|việc ăn uống (dining room: phòng ăn)
+dinner|n|bữa tối
+direction|n|hướng, phương hướng
+dirty|adj|bẩn
+disappear|v|biến mất
+discover|v|khám phá
+discuss|v|thảo luận
+dish|n|đĩa, món ăn
+dishwasher|n|máy rửa bát
+distance|n|khoảng cách
+do|v|làm
+doctor|n|bác sĩ
+dog|n|con chó
+doll|n|búp bê
+dollar|n|đô la
+door|n|cửa
+doorbell|n|chuông cửa
+double|adj|gấp đôi, đôi
+down|adv|xuống
+downstairs|adv|ở tầng dưới
+dozen|n|một tá (12)
+draw|v|vẽ
+drawer|n|ngăn kéo
+dream|n/v|giấc mơ; mơ
+dress|n/v|váy đầm; mặc quần áo
+drink|v/n|uống; đồ uống
+drive|v|lái xe
+driver|n|tài xế
+drop|v|làm rơi, thả
+drug|n|thuốc, ma túy
+dry|adj/v|khô; làm khô
+duck|n|con vịt
+during|prep|trong suốt
+dust|n|bụi
+duty|n|nhiệm vụ

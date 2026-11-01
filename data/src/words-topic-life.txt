@@ -1,0 +1,389 @@
+# word|part of speech|Vietnamese meaning
+# --- calendar and time ---
+Monday|n|thứ Hai
+Tuesday|n|thứ Ba
+Wednesday|n|thứ Tư
+Thursday|n|thứ Năm
+Friday|n|thứ Sáu
+Saturday|n|thứ Bảy
+Sunday|n|Chủ nhật
+January|n|tháng Một
+February|n|tháng Hai
+March|n|tháng Ba
+April|n|tháng Tư
+June|n|tháng Sáu
+July|n|tháng Bảy
+August|n|tháng Tám
+September|n|tháng Chín
+October|n|tháng Mười
+November|n|tháng Mười Một
+December|n|tháng Mười Hai
+fourth|adj|thứ tư
+fifth|adj|thứ năm
+sixth|adj|thứ sáu
+seventh|adj|thứ bảy
+eighth|adj|thứ tám
+ninth|adj|thứ chín
+tenth|adj|thứ mười
+twelfth|adj|thứ mười hai
+twentieth|adj|thứ hai mươi
+billion|num|một tỷ
+decade|n|thập kỷ
+dawn|n|bình minh
+daytime|n|ban ngày
+nighttime|n|ban đêm
+bedtime|n|giờ đi ngủ
+lunchtime|n|giờ ăn trưa
+meantime|n|trong lúc đó
+weekday|n|ngày trong tuần
+sometime|adv|lúc nào đó
+someday|adv|một ngày nào đó
+moment|n|khoảnh khắc
+second|n|giây
+timetable|n|thời gian biểu
+deadline|n|hạn chót
+# --- countries and people ---
+Vietnam|n|Việt Nam
+Vietnamese|n/adj|tiếng Việt; người Việt
+America|n|nước Mỹ
+American|adj|thuộc về Mỹ
+Japan|n|Nhật Bản
+Japanese|adj|thuộc về Nhật
+China|n|Trung Quốc
+Chinese|adj|thuộc về Trung Quốc
+Korea|n|Hàn Quốc
+Korean|adj|thuộc về Hàn Quốc
+Thailand|n|Thái Lan
+France|n|nước Pháp
+French|adj|thuộc về Pháp
+England|n|nước Anh
+Australia|n|nước Úc
+Hanoi|n|Hà Nội
+Asia|n|châu Á
+Europe|n|châu Âu
+Mr|n|ông (danh xưng)
+Mrs|n|bà (danh xưng)
+Ms|n|cô, bà (danh xưng)
+# --- contractions ---
+I'm|phr|tôi là (I am)
+I've|phr|tôi đã (I have)
+I'll|phr|tôi sẽ (I will)
+I'd|phr|tôi sẽ / tôi đã (I would / I had)
+you're|phr|bạn là (you are)
+you've|phr|bạn đã (you have)
+you'll|phr|bạn sẽ (you will)
+he's|phr|anh ấy là / đã (he is / he has)
+he'll|phr|anh ấy sẽ (he will)
+he'd|phr|anh ấy sẽ / đã (he would / he had)
+she's|phr|cô ấy là / đã (she is / she has)
+she'll|phr|cô ấy sẽ (she will)
+she'd|phr|cô ấy sẽ / đã (she would / she had)
+it's|phr|nó là (it is)
+it'll|phr|nó sẽ (it will)
+we're|phr|chúng tôi là (we are)
+we've|phr|chúng tôi đã (we have)
+we'll|phr|chúng tôi sẽ (we will)
+we'd|phr|chúng tôi sẽ (we would)
+they're|phr|họ là (they are)
+they've|phr|họ đã (they have)
+they'll|phr|họ sẽ (they will)
+they'd|phr|họ sẽ (they would)
+that's|phr|đó là (that is)
+there's|phr|có (there is)
+here's|phr|đây là (here is)
+what's|phr|cái gì là (what is)
+who's|phr|ai là (who is)
+where's|phr|ở đâu (where is)
+let's|phr|chúng ta hãy (let us)
+don't|phr|không (do not)
+doesn't|phr|không (does not)
+didn't|phr|đã không (did not)
+isn't|phr|không phải (is not)
+aren't|phr|không phải (are not)
+wasn't|phr|đã không (was not)
+weren't|phr|đã không (were not)
+can't|phr|không thể (cannot)
+couldn't|phr|đã không thể (could not)
+won't|phr|sẽ không (will not)
+wouldn't|phr|sẽ không (would not)
+shouldn't|phr|không nên (should not)
+haven't|phr|chưa (have not)
+hasn't|phr|chưa (has not)
+hadn't|phr|đã chưa (had not)
+mustn't|phr|không được (must not)
+cannot|modal|không thể
+# --- feelings and character ---
+anger|n|sự tức giận
+anxiety|n|sự lo âu
+bravery|n|sự dũng cảm
+calmness|n|sự bình tĩnh
+comfort|n|sự thoải mái, an ủi
+confidence|n|sự tự tin
+courage|n|lòng can đảm
+delight|n|niềm vui sướng
+desire|n|mong muốn
+emotion|n|cảm xúc
+excitement|n|sự phấn khích
+gratitude|n|lòng biết ơn
+grief|n|nỗi đau buồn
+guilt|n|cảm giác tội lỗi
+hatred|n|lòng căm ghét
+honesty|n|sự trung thực
+hope|n|niềm hy vọng
+humor|n|sự hài hước
+jealousy|n|sự ghen tị
+loneliness|n|sự cô đơn
+patience|n|sự kiên nhẫn
+regret|n|sự hối tiếc
+relief|n|sự nhẹ nhõm
+respect|n|sự tôn trọng
+sadness|n|nỗi buồn
+shame|n|sự xấu hổ
+shock|n|cú sốc
+smile|n|nụ cười
+sorrow|n|nỗi buồn
+stress|n|căng thẳng
+sympathy|n|sự đồng cảm
+tears|n|nước mắt
+trust|n|lòng tin
+warmth|n|sự ấm áp
+worry|n|nỗi lo
+# --- people and relationships ---
+adulthood|n|tuổi trưởng thành
+aunt|n|cô, dì
+babysitter|n|người trông trẻ
+bride|n|cô dâu
+groom|n|chú rể
+buddy|n|bạn thân
+community|n|cộng đồng
+companion|n|bạn đồng hành
+couple|n|cặp đôi
+crowd|n|đám đông
+divorce|n|ly hôn
+engaged|adj|đã đính hôn
+fiance|n|chồng sắp cưới
+gentleman|n|quý ông
+generation|n|thế hệ
+grandkid|n|cháu
+guy|n|anh chàng
+host|n|chủ nhà
+infant|n|trẻ sơ sinh
+mate|n|bạn
+mum|n|mẹ
+dear|n|người thân yêu
+neighbor|n|hàng xóm
+newborn|n|trẻ sơ sinh
+orphan|n|trẻ mồ côi
+pal|n|bạn
+parenthood|n|việc làm cha mẹ
+public|n|công chúng
+relationship|n|mối quan hệ
+senior|n/adj|người cao tuổi; cấp cao
+sibling|n|anh chị em ruột
+spouse|n|vợ hoặc chồng
+stepmother|n|mẹ kế
+teen|n|thiếu niên
+teenager|n|thanh thiếu niên
+toddler|n|trẻ mới biết đi
+volunteer|n/v|tình nguyện viên; tình nguyện
+youth|n|tuổi trẻ
+# --- technology and media ---
+app|n|ứng dụng
+battery|n|pin
+blog|n|nhật ký trực tuyến
+camera|n|máy ảnh
+cellphone|n|điện thoại di động
+charger|n|bộ sạc
+chat|n|cuộc trò chuyện
+click|v|nhấp chuột
+data|n|dữ liệu
+device|n|thiết bị
+digital|adj|kỹ thuật số
+headphones|n|tai nghe
+keyboard|n|bàn phím
+link|n|đường liên kết
+password|n|mật khẩu
+photo|n|ảnh
+podcast|n|chương trình âm thanh
+selfie|n|ảnh tự chụp
+smartphone|n|điện thoại thông minh
+social|adj|thuộc xã hội
+software|n|phần mềm
+speaker|n|cái loa, người nói
+technology|n|công nghệ
+user|n|người dùng
+website|n|trang web
+wifi|n|mạng không dây
+cartoon|n|phim hoạt hình
+comedy|n|phim hài
+documentary|n|phim tài liệu
+drama|n|kịch, phim truyền hình
+episode|n|tập phim
+series|n|loạt phim
+advertisement|n|quảng cáo
+article|n|bài báo
+headline|n|tiêu đề
+novel|n|tiểu thuyết
+author|n|tác giả
+chapter|n|chương
+comic|n|truyện tranh
+# --- abstract and general nouns ---
+ability|n|khả năng
+achievement|n|thành tựu
+advantage|n|lợi thế
+adventure|n|cuộc phiêu lưu
+advertisement|n|quảng cáo
+agreement|n|sự đồng ý
+aim|n|mục tiêu
+appearance|n|vẻ ngoài
+argument|n|cuộc tranh cãi
+arrival|n|sự đến nơi
+attitude|n|thái độ
+background|n|bối cảnh, lý lịch
+balance|n|sự cân bằng
+beauty|n|vẻ đẹp
+behavior|n|hành vi
+belief|n|niềm tin
+benefit|n|lợi ích
+birth|n|sự ra đời
+blessing|n|phước lành
+celebration|n|lễ kỷ niệm
+challenge|n|thử thách
+character|n|tính cách, nhân vật
+charity|n|từ thiện
+childcare|n|việc chăm sóc trẻ
+comment|n|bình luận
+competition|n|cuộc thi
+concern|n|mối quan tâm
+confusion|n|sự bối rối
+connection|n|sự kết nối
+contest|n|cuộc thi
+custom|n|phong tục
+daylight|n|ánh sáng ban ngày
+description|n|sự miêu tả
+design|n|thiết kế
+development|n|sự phát triển
+disaster|n|thảm họa
+discussion|n|cuộc thảo luận
+effect|n|ảnh hưởng
+effort|n|nỗ lực
+entertainment|n|giải trí
+explanation|n|lời giải thích
+failure|n|sự thất bại
+fame|n|danh tiếng
+favor|n|ân huệ, sự giúp đỡ
+fortune|n|vận may, tài sản
+fun|n|niềm vui
+goodness|n|lòng tốt
+growth|n|sự phát triển
+guidance|n|sự hướng dẫn
+harmony|n|sự hòa hợp
+holidaymaker|n|người đi nghỉ
+honor|n|danh dự
+importance|n|tầm quan trọng
+improvement|n|sự cải thiện
+influence|n|ảnh hưởng
+instruction|n|hướng dẫn
+invitation|n|lời mời
+issue|n|vấn đề
+lifestyle|n|lối sống
+lifetime|n|cả đời
+manner|n|cách thức
+manners|n|phép lịch sự
+method|n|phương pháp
+mistake|n|lỗi
+motivation|n|động lực
+nightmare|n|ác mộng
+noise|n|tiếng ồn
+occasion|n|dịp
+patience|n|sự kiên nhẫn
+peace|n|hòa bình
+permission|n|sự cho phép
+plenty|n|sự dồi dào
+possibility|n|khả năng
+practice|n|sự luyện tập
+preparation|n|sự chuẩn bị
+pressure|n|áp lực
+progress|n|sự tiến bộ
+quantity|n|số lượng
+reaction|n|phản ứng
+reality|n|thực tế
+relationship|n|mối quan hệ
+religion|n|tôn giáo
+request|n|yêu cầu
+responsibility|n|trách nhiệm
+risk|n|rủi ro
+routine|n|thói quen hằng ngày
+rubbish|n|rác
+schedule|n|lịch trình
+shortage|n|sự thiếu hụt
+solution|n|giải pháp
+source|n|nguồn
+spirit|n|tinh thần
+strength|n|sức mạnh
+style|n|phong cách
+suggestion|n|lời gợi ý
+system|n|hệ thống
+talent|n|tài năng
+topic|n|chủ đề
+tradition|n|truyền thống
+trick|n|mẹo, trò lừa
+victory|n|chiến thắng
+violence|n|bạo lực
+warning|n|lời cảnh báo
+weakness|n|điểm yếu
+wisdom|n|sự khôn ngoan
+wonder|n|điều kỳ diệu
+# --- clothes and personal items ---
+bracelet|n|vòng tay
+cardigan|n|áo len cài cúc
+collar|n|cổ áo
+earring|n|bông tai
+handbag|n|túi xách
+hoodie|n|áo hoodie
+jewelry|n|trang sức
+lipstick|n|son môi
+makeup|n|đồ trang điểm
+necklace|n|vòng cổ
+perfume|n|nước hoa
+raincoat|n|áo mưa
+sandal|n|dép xăng-đan
+slipper|n|dép đi trong nhà
+sleeve|n|tay áo
+sneaker|n|giày thể thao
+sunglasses|n|kính râm
+underwear|n|đồ lót
+umbrella|n|cái ô
+vest|n|áo gi-lê
+zipper|n|khóa kéo
+# --- sports and free time ---
+badminton|n|cầu lông
+basketball|n|bóng rổ
+chess|n|cờ vua
+cycling|n|đạp xe
+fishing|n|câu cá
+hiking|n|đi bộ đường dài
+jogging|n|chạy bộ
+karaoke|n|hát karaoke
+marathon|n|chạy marathon
+puzzle|n|câu đố
+running|n|chạy bộ
+skating|n|trượt băng
+tennis|n|quần vợt
+volleyball|n|bóng chuyền
+yoga|n|yoga
+gardening|n|làm vườn
+camping|n|cắm trại
+painting|n|hội họa
+reading|n|việc đọc
+drawing|n|bức vẽ
+dancing|n|khiêu vũ
+coach|n|huấn luyện viên
+fan|n|người hâm mộ
+match|n|trận đấu
+referee|n|trọng tài
+stadium|n|sân vận động
+trophy|n|cúp
+medal|n|huy chương
+leisure|n|thời gian rảnh
+weekend|n|cuối tuần

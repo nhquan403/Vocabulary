@@ -1,0 +1,263 @@
+# word|part of speech|Vietnamese meaning
+I|pron|tôi
+ice|n|đá, nước đá
+idea|n|ý tưởng
+if|conj|nếu
+ill|adj|ốm
+illness|n|bệnh tật
+imagine|v|tưởng tượng
+immediately|adv|ngay lập tức
+important|adj|quan trọng
+impossible|adj|không thể
+improve|v|cải thiện
+in|prep|trong, ở
+include|v|bao gồm
+income|n|thu nhập
+increase|v|tăng
+indeed|adv|thật vậy
+information|n|thông tin
+injury|n|vết thương
+insect|n|côn trùng
+inside|prep|bên trong
+instead|adv|thay vì
+interest|n|sự quan tâm, lãi suất
+interested|adj|quan tâm, thích thú
+interesting|adj|thú vị
+internet|n|mạng internet
+interview|n|cuộc phỏng vấn
+into|prep|vào trong
+introduce|v|giới thiệu
+invite|v|mời
+iron|n/v|sắt, bàn là; là (ủi) quần áo
+is|v|là (dùng với he, she, it)
+island|n|hòn đảo
+it|pron|nó
+its|det|của nó
+itself|pron|chính nó
+jacket|n|áo khoác
+jam|n|mứt
+jar|n|cái lọ, hũ
+jeans|n|quần bò
+job|n|công việc
+join|v|tham gia
+joke|n|câu chuyện cười
+journey|n|chuyến đi
+joy|n|niềm vui
+juice|n|nước ép
+jump|v|nhảy
+just|adv|vừa mới, chỉ
+keep|v|giữ
+kettle|n|ấm đun nước
+key|n|chìa khóa
+kick|v|đá
+kid|n|đứa trẻ
+kill|v|giết
+kilo|n|ki-lô-gam
+kilometer|n|ki-lô-mét
+kind|adj/n|tốt bụng; loại
+kindness|n|lòng tốt
+king|n|nhà vua
+kiss|v/n|hôn; nụ hôn
+kitchen|n|nhà bếp
+kite|n|con diều
+knee|n|đầu gối
+knife|n|con dao
+knock|v|gõ cửa
+know|v|biết
+knowledge|n|kiến thức
+lady|n|quý bà
+lake|n|hồ
+lamp|n|cái đèn
+land|n/v|đất; hạ cánh
+language|n|ngôn ngữ
+laptop|n|máy tính xách tay
+large|adj|lớn
+last|adj/v|cuối cùng, trước; kéo dài
+late|adj/adv|muộn, trễ
+lately|adv|gần đây
+later|adv|sau đó
+laugh|v|cười
+laundry|n|quần áo cần giặt, việc giặt giũ
+law|n|luật
+lawyer|n|luật sư
+lay|v|đặt, để
+lazy|adj|lười biếng
+lead|v|dẫn dắt
+leader|n|người lãnh đạo
+leaf|n|lá cây
+learn|v|học
+least|adj|ít nhất
+leather|n|da thuộc
+leave|v|rời đi, để lại
+left|adj/n|bên trái
+leg|n|chân
+lemon|n|quả chanh
+lend|v|cho mượn
+less|adj|ít hơn
+lesson|n|bài học
+let|v|để cho
+letter|n|lá thư, chữ cái
+lettuce|n|rau xà lách
+level|n|mức độ
+library|n|thư viện
+lie|v|nằm, nói dối
+life|n|cuộc sống
+lift|v|nâng lên
+light|n/adj|ánh sáng, đèn; nhẹ
+like|v/prep|thích; giống như
+likely|adj|có khả năng
+line|n|đường kẻ, hàng
+lip|n|môi
+list|n|danh sách
+listen|v|lắng nghe
+little|adj|nhỏ, ít
+live|v|sống
+lively|adj|sôi động
+living|n|kế sinh nhai (living room: phòng khách)
+local|adj|thuộc địa phương
+lock|v/n|khóa; ổ khóa
+lonely|adj|cô đơn
+long|adj|dài
+look|v|nhìn, trông có vẻ
+lose|v|mất, thua
+loss|n|sự mất mát
+lost|adj|bị lạc, bị mất
+lot|n|nhiều (a lot of)
+loud|adj|to, ồn
+loudly|adv|ầm ĩ, to
+love|v/n|yêu; tình yêu
+lovely|adj|đáng yêu
+low|adj|thấp
+luck|n|vận may
+lucky|adj|may mắn
+lunch|n|bữa trưa
+machine|n|máy móc
+mad|adj|điên, tức giận
+magazine|n|tạp chí
+mail|n|thư từ
+main|adj|chính
+mainly|adv|chủ yếu
+make|v|làm, tạo ra
+man|n|người đàn ông
+manager|n|người quản lý
+mango|n|quả xoài
+many|det|nhiều
+map|n|bản đồ
+market|n|chợ
+marriage|n|hôn nhân
+married|adj|đã kết hôn
+marry|v|kết hôn
+match|n|trận đấu, que diêm
+math|n|môn toán
+matter|n/v|vấn đề; quan trọng
+may|modal|có thể
+maybe|adv|có lẽ
+me|pron|tôi (tân ngữ)
+meal|n|bữa ăn
+mean|v|có nghĩa là
+meaning|n|ý nghĩa
+meat|n|thịt
+medicine|n|thuốc
+medium|adj|vừa, trung bình
+meet|v|gặp
+meeting|n|cuộc họp
+member|n|thành viên
+memory|n|trí nhớ, kỷ niệm
+mention|v|đề cập
+menu|n|thực đơn
+mess|n|sự bừa bộn
+message|n|tin nhắn
+messy|adj|bừa bộn
+metal|n|kim loại
+meter|n|mét
+middle|n|ở giữa
+midnight|n|nửa đêm
+might|modal|có thể (khả năng thấp)
+mile|n|dặm
+milk|n|sữa
+million|num|một triệu
+mind|n/v|tâm trí; phiền
+mine|pron|của tôi
+minute|n|phút
+mirror|n|cái gương
+miss|v|nhớ, lỡ
+mistake|n|lỗi sai
+mix|v|trộn
+mobile|adj|di động
+modern|adj|hiện đại
+mom|n|mẹ
+moment|n|khoảnh khắc
+money|n|tiền
+monkey|n|con khỉ
+month|n|tháng
+mood|n|tâm trạng
+moon|n|mặt trăng
+more|adj|nhiều hơn
+morning|n|buổi sáng
+most|adj|nhiều nhất, hầu hết
+mostly|adv|chủ yếu
+mother|n|mẹ
+motorbike|n|xe máy
+mountain|n|núi
+mouse|n|con chuột
+mouth|n|miệng
+move|v|di chuyển, chuyển nhà
+movie|n|bộ phim
+much|adj|nhiều
+mud|n|bùn
+mug|n|cốc có quai
+museum|n|bảo tàng
+mushroom|n|nấm
+music|n|âm nhạc
+must|modal|phải
+my|det|của tôi
+myself|pron|chính tôi
+nail|n|móng tay, cái đinh
+name|n|tên
+narrow|adj|hẹp
+nation|n|quốc gia
+natural|adj|tự nhiên
+nature|n|thiên nhiên
+near|prep|gần
+nearby|adj|gần đó
+nearly|adv|gần như
+neat|adj|gọn gàng
+necessary|adj|cần thiết
+neck|n|cổ
+need|v|cần
+needle|n|cây kim
+neighbor|n|hàng xóm
+neighborhood|n|khu phố
+neither|det|không cái nào
+nephew|n|cháu trai (con anh chị em)
+nervous|adj|lo lắng, hồi hộp
+never|adv|không bao giờ
+new|adj|mới
+news|n|tin tức
+newspaper|n|tờ báo
+next|adj|tiếp theo
+nice|adj|đẹp, tốt
+niece|n|cháu gái (con anh chị em)
+night|n|ban đêm
+nine|num|số chín
+nineteen|num|mười chín
+ninety|num|chín mươi
+no|det/adv|không
+nobody|pron|không ai
+noise|n|tiếng ồn
+noisy|adj|ồn ào
+none|pron|không ai, không cái nào
+noodle|n|mì, sợi mì
+noon|n|buổi trưa
+nor|conj|cũng không
+normal|adj|bình thường
+north|n|phía bắc
+nose|n|mũi
+not|adv|không
+note|n|ghi chú
+notebook|n|cuốn vở
+nothing|pron|không có gì
+notice|v|chú ý, nhận thấy
+now|adv|bây giờ
+number|n|con số
+nurse|n|y tá

@@ -1,0 +1,186 @@
+# word|part of speech|Vietnamese meaning
+# --- food and cooking ---
+avocado|n|quả bơ
+bacon|n|thịt xông khói
+barbecue|n|tiệc nướng ngoài trời
+beans|n|đậu
+berry|n|quả mọng
+boiled|adj|luộc
+bottled|adj|đóng chai
+breakfast|n|bữa sáng
+broccoli|n|bông cải xanh
+broth|n|nước dùng
+brunch|n|bữa sáng muộn
+burger|n|bánh hamburger
+cereal|n|ngũ cốc
+cherry|n|quả anh đào
+chip|n|khoai tây chiên
+chop|v|thái, chặt
+cinnamon|n|quế
+coriander|n|rau mùi
+crisp|adj|giòn
+crispy|adj|giòn
+crumb|n|vụn bánh
+cuisine|n|ẩm thực
+curry|n|món cà ri
+dinnertime|n|giờ ăn tối
+dough|n|bột nhào
+dressing|n|nước sốt trộn salad
+dumpling|n|bánh bao, bánh há cảo
+eggplant|n|cà tím
+fillet|n|miếng phi lê
+flavor|n|hương vị
+fridge|n|tủ lạnh
+grill|v/n|nướng vỉ; vỉ nướng
+grocery|n|hàng tạp hóa
+herb|n|rau thơm, thảo mộc
+hunger|n|cơn đói
+ingredient|n|nguyên liệu
+juicy|adj|mọng nước
+ketchup|n|tương cà
+kiwi|n|quả kiwi
+leftover|n|đồ ăn thừa
+lime|n|chanh xanh
+lobster|n|tôm hùm
+lunchbox|n|hộp cơm trưa
+meatball|n|thịt viên
+melon|n|dưa lưới
+mint|n|bạc hà
+mussel|n|con vẹm
+mustard|n|mù tạt
+nut|n|hạt
+oatmeal|n|cháo yến mạch
+olive|n|quả ô liu
+omelet|n|trứng tráng
+pancake|n|bánh kếp
+papaya|n|đu đủ
+pasta|n|mì Ý
+pea|n|đậu Hà Lan
+peach|n|quả đào
+peanut|n|đậu phộng
+pear|n|quả lê
+peel|v|gọt vỏ, bóc vỏ
+pineapple|n|quả dứa
+plum|n|quả mận
+porridge|n|cháo
+prawn|n|tôm
+raisin|n|nho khô
+roast|v/adj|quay, nướng; được quay
+salmon|n|cá hồi
+sausage|n|xúc xích
+seaweed|n|rong biển
+shrimp|n|con tôm
+snack|n|đồ ăn vặt
+soda|n|nước ngọt có ga
+soy|n|đậu nành
+spice|n|gia vị
+spinach|n|rau chân vịt
+squid|n|con mực
+steak|n|bít tết
+steam|v/n|hấp; hơi nước
+stew|n|món hầm
+stir|v|khuấy
+strawberry|n|quả dâu tây
+sushi|n|món sushi
+sweets|n|kẹo, đồ ngọt
+tasty|adj|ngon
+tofu|n|đậu phụ
+tuna|n|cá ngừ
+vanilla|n|vani
+vinegar|n|giấm
+yogurt|n|sữa chua
+appetite|n|sự thèm ăn
+bite|n|miếng cắn
+bitter|adj|đắng
+blender|n|máy xay sinh tố
+bowl|n|cái bát
+cookbook|n|sách nấu ăn
+cutting|adj|dùng để cắt (cutting board: thớt)
+dishes|n|bát đĩa
+drinking|adj|dùng để uống (drinking water: nước uống)
+frozen|adj|đông lạnh
+heat|v|làm nóng
+kitchenware|n|đồ dùng nhà bếp
+lid|n|cái nắp
+melt|v|tan chảy
+microwave|n|lò vi sóng
+napkin|n|khăn ăn
+portion|n|khẩu phần
+sip|v|nhấp từng ngụm
+spill|v|làm đổ
+spread|v|phết, trải
+sticky|adj|dính
+straw|n|ống hút
+taste|n|vị
+teaspoon|n|thìa cà phê
+tray|n|cái khay
+wok|n|chảo sâu lòng
+# --- home and household ---
+attic|n|gác mái
+basement|n|tầng hầm
+bathtub|n|bồn tắm
+bin|n|thùng rác
+blind|n|rèm cuốn
+bookcase|n|tủ sách
+broom|n|cái chổi
+bulb|n|bóng đèn
+cabinet|n|tủ
+chimney|n|ống khói
+clothesline|n|dây phơi quần áo
+cushion|n|cái đệm
+detergent|n|bột giặt
+doormat|n|thảm chùi chân
+drain|n|ống thoát nước
+duvet|n|chăn lông
+fan|n|cái quạt
+faucet|n|vòi nước
+floor|n|sàn nhà
+garbage|n|rác
+hallway|n|hành lang
+hammer|n|cái búa
+hanger|n|móc treo quần áo
+hook|n|cái móc
+key|n|chìa khóa
+ladder|n|cái thang
+lamp|n|cái đèn
+lawn|n|bãi cỏ
+lightbulb|n|bóng đèn
+mattress|n|nệm
+mop|n/v|cây lau nhà; lau nhà
+nail|n|cái đinh
+plug|n|phích cắm
+porch|n|hiên nhà
+rug|n|tấm thảm nhỏ
+shampoo|n|dầu gội
+shelf|n|cái kệ
+sponge|n|miếng bọt biển
+stool|n|ghế đẩu
+tap|n|vòi nước
+tile|n|gạch lát
+trash|n|rác
+vacuum|n/v|máy hút bụi; hút bụi
+vase|n|lọ hoa
+wardrobe|n|tủ quần áo
+washbasin|n|bồn rửa mặt
+yard|n|sân
+apron|n|tạp dề
+candle|n|cây nến
+chore|n|việc vặt trong nhà
+decorate|v|trang trí
+decoration|n|đồ trang trí
+dust|v|lau bụi
+furniture|n|đồ nội thất
+hang|v|treo
+household|n|hộ gia đình
+landlord|n|chủ nhà (cho thuê)
+lock|n|ổ khóa
+neat|adj|gọn gàng
+organize|v|sắp xếp
+roommate|n|bạn cùng phòng
+scrub|v|chà rửa
+shelter|n|nơi trú ẩn
+stair|n|bậc cầu thang
+storage|n|kho chứa
+tidy|v|dọn dẹp
+upstairs|adv|tầng trên
+wipe|v|lau

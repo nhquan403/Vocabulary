@@ -1,0 +1,324 @@
+# word|part of speech|Vietnamese meaning
+absolute|adj|tuyệt đối
+absolutely|adv|hoàn toàn
+accidentally|adv|vô tình
+actual|adj|thực tế
+additional|adj|thêm vào
+afraid|adj|sợ
+aggressive|adj|hung hăng
+alike|adj|giống nhau
+amazed|adj|kinh ngạc
+ancient|adj|cổ xưa
+annoyed|adj|bực mình
+annoying|adj|gây khó chịu
+anxious|adj|lo âu
+anyhow|adv|dù sao
+apart|adv|cách xa, riêng ra
+ashamed|adj|xấu hổ
+asleep|adj|đang ngủ
+attractive|adj|hấp dẫn
+average|adj|trung bình
+aware|adj|nhận thức được
+basic|adj|cơ bản
+blank|adj|trống
+bold|adj|táo bạo, đậm
+bossy|adj|hách dịch
+bitterly|adv|cay đắng
+brief|adj|ngắn gọn
+briefly|adv|một cách ngắn gọn
+brilliant|adj|xuất sắc
+broad|adj|rộng
+calmly|adv|bình tĩnh
+casual|adj|bình thường, giản dị
+central|adj|ở trung tâm
+charming|adj|duyên dáng
+cheerful|adj|vui vẻ
+chubby|adj|mũm mĩm
+classic|adj|cổ điển
+clumsy|adj|vụng về
+colorful|adj|nhiều màu sắc
+comfortably|adv|thoải mái
+complicated|adj|phức tạp
+completely|adv|hoàn toàn
+cozy|adj|ấm cúng
+creative|adj|sáng tạo
+cruel|adj|tàn nhẫn
+curly|adj|xoăn
+current|adj|hiện tại
+damp|adj|ẩm ướt
+deaf|adj|điếc
+dear|adj|thân yêu
+delighted|adj|vui mừng
+dependent|adj|phụ thuộc
+direct|adj|trực tiếp
+directly|adv|trực tiếp
+disappointed|adj|thất vọng
+dull|adj|buồn tẻ
+dusty|adj|bụi bặm
+eager|adj|háo hức
+easygoing|adj|dễ tính
+efficient|adj|hiệu quả
+elegant|adj|thanh lịch
+emotional|adj|xúc động
+endless|adj|vô tận
+energetic|adj|tràn đầy năng lượng
+entire|adj|toàn bộ
+equally|adv|bằng nhau
+eventually|adv|cuối cùng
+evil|adj|xấu xa
+exhausting|adj|làm kiệt sức
+extremely|adv|cực kỳ
+faint|adj|mờ nhạt
+fairly|adv|khá, công bằng
+faithful|adj|chung thủy
+fake|adj|giả
+fancy|adj|sang trọng
+fantastic|adj|tuyệt vời
+fearful|adj|sợ hãi
+fit|adj|cân đối, khỏe mạnh
+fixed|adj|cố định
+flexible|adj|linh hoạt
+fluent|adj|lưu loát
+foolish|adj|ngốc nghếch
+formal|adj|trang trọng
+fortunate|adj|may mắn
+fortunately|adv|may mắn thay
+frank|adj|thẳng thắn
+frequent|adj|thường xuyên
+frequently|adv|thường xuyên
+frozen|adj|đông lạnh
+furious|adj|giận dữ
+fuzzy|adj|mờ, xù
+gently|adv|nhẹ nhàng
+giant|adj|khổng lồ
+gloomy|adj|ảm đạm
+glorious|adj|huy hoàng
+gorgeous|adj|lộng lẫy
+gradual|adj|dần dần
+gradually|adv|dần dần
+grand|adj|lớn, hoành tráng
+greedy|adj|tham lam
+guilty|adj|có tội
+handy|adj|tiện dụng
+hardworking|adj|chăm chỉ
+harmful|adj|có hại
+harsh|adj|khắc nghiệt
+heavily|adv|nặng nề
+helpless|adj|bất lực
+hilarious|adj|vui nhộn
+hollow|adj|rỗng
+homeless|adj|vô gia cư
+homemade|adj|tự làm ở nhà
+hopeful|adj|đầy hy vọng
+hopeless|adj|vô vọng
+horrible|adj|kinh khủng
+humble|adj|khiêm tốn
+hungrily|adv|đói khát
+ideal|adj|lý tưởng
+identical|adj|giống hệt
+impatient|adj|thiếu kiên nhẫn
+impolite|adj|bất lịch sự
+impressive|adj|ấn tượng
+incredible|adj|không thể tin được
+independent|adj|độc lập
+indoor|adj|trong nhà
+indoors|adv|ở trong nhà
+innocent|adj|vô tội
+intelligent|adj|thông minh
+international|adj|quốc tế
+jealous|adj|ghen tị
+joyful|adj|vui sướng
+junior|adj|cấp dưới, nhỏ tuổi hơn
+kindly|adv|tử tế
+large|adj|lớn
+lazy|adj|lười
+legal|adj|hợp pháp
+lightly|adv|nhẹ nhàng
+likeable|adj|dễ mến
+limited|adj|có hạn
+loose|adj|lỏng
+lovely|adj|dễ thương
+loyal|adj|trung thành
+magic|adj|thần kỳ
+major|adj|chủ yếu
+male|adj|nam
+female|adj|nữ
+massive|adj|to lớn
+mature|adj|trưởng thành
+mild|adj|ôn hòa, nhẹ
+minor|adj|nhỏ, không quan trọng
+miserable|adj|khổ sở
+missing|adj|bị mất tích
+moist|adj|ẩm
+monthly|adj|hằng tháng
+moral|adj|đạo đức
+naughty|adj|nghịch ngợm
+negative|adj|tiêu cực
+nervously|adv|lo lắng
+nicely|adv|tốt đẹp
+noble|adj|cao quý
+obvious|adj|hiển nhiên
+obviously|adv|rõ ràng
+odd|adj|kỳ quặc, lẻ
+official|adj|chính thức
+older|adj|lớn tuổi hơn
+opposite|adj|đối diện
+optimistic|adj|lạc quan
+original|adj|nguyên bản
+outgoing|adj|hướng ngoại
+overweight|adj|thừa cân
+patiently|adv|kiên nhẫn
+perfectly|adv|hoàn hảo
+physical|adj|thuộc về cơ thể
+plain|adj|đơn giản, giản dị
+pleasantly|adv|dễ chịu
+plump|adj|đầy đặn
+politely|adv|lịch sự
+positive|adj|tích cực
+powerful|adj|mạnh mẽ
+practical|adj|thực tế
+precious|adj|quý giá
+pregnant|adj|mang thai
+present|adj|có mặt
+previous|adj|trước đó
+proper|adj|đúng đắn
+properly|adv|đúng cách
+proudly|adv|tự hào
+pure|adj|tinh khiết
+quietly|adv|lặng lẽ
+rapid|adj|nhanh chóng
+rare|adj|hiếm
+reasonable|adj|hợp lý
+regular|adj|đều đặn
+regularly|adv|thường xuyên
+relaxed|adj|thư thái
+relaxing|adj|thư giãn
+reliable|adj|đáng tin cậy
+responsible|adj|có trách nhiệm
+romantic|adj|lãng mạn
+rotten|adj|thối
+roughly|adv|khoảng chừng
+royal|adj|hoàng gia
+safely|adv|an toàn
+scary|adj|đáng sợ
+selfish|adj|ích kỷ
+sensible|adj|hợp lý
+sensitive|adj|nhạy cảm
+seriously|adv|nghiêm túc
+shallow|adj|nông
+shiny|adj|sáng bóng
+shocked|adj|sốc
+silently|adv|im lặng
+similar|adj|tương tự
+simply|adv|đơn giản
+sincere|adj|chân thành
+skinny|adj|gầy gò
+slightly|adv|hơi, một chút
+slippery|adj|trơn
+smooth|adj|mịn
+softly|adv|nhẹ nhàng
+solid|adj|rắn chắc
+sorrowful|adj|buồn rầu
+spare|adj|dự phòng, rảnh
+specific|adj|cụ thể
+splendid|adj|tuyệt đẹp
+spotless|adj|sạch bong
+steady|adj|vững vàng
+steep|adj|dốc
+sticky|adj|dính
+stiff|adj|cứng
+strict|adj|nghiêm khắc
+strongly|adv|mạnh mẽ
+stubborn|adj|bướng bỉnh
+stuffed|adj|no căng, nhồi
+stylish|adj|sành điệu
+sufficient|adj|đủ
+suitable|adj|phù hợp
+sunburnt|adj|cháy nắng
+super|adj|tuyệt
+surely|adv|chắc chắn
+sweaty|adj|đẫm mồ hôi
+talented|adj|tài năng
+talkative|adj|nói nhiều
+tasteless|adj|nhạt nhẽo
+tender|adj|mềm, dịu dàng
+tense|adj|căng thẳng
+terribly|adv|kinh khủng
+terrific|adj|tuyệt vời
+thankful|adj|biết ơn
+thoughtful|adj|chu đáo
+thrilled|adj|vui mừng phấn khởi
+tidy|adj|gọn gàng
+tightly|adv|chặt chẽ
+timid|adj|rụt rè
+tough|adj|khó khăn, cứng rắn
+traditional|adj|truyền thống
+tropical|adj|nhiệt đới
+truly|adv|thật sự
+unable|adj|không thể
+uncomfortable|adj|không thoải mái
+unexpected|adj|bất ngờ
+unfair|adj|không công bằng
+unfortunately|adv|không may
+unhappy|adj|không vui
+unique|adj|độc đáo
+unknown|adj|chưa biết
+unlucky|adj|không may
+unusual|adj|khác thường
+urgent|adj|khẩn cấp
+used|adj|đã qua sử dụng, quen
+valuable|adj|có giá trị
+various|adj|đa dạng
+vast|adj|rộng lớn
+violent|adj|bạo lực
+visible|adj|có thể nhìn thấy
+vital|adj|thiết yếu
+warmly|adv|nồng nhiệt
+wealthy|adj|giàu có
+weird|adj|kỳ lạ
+wicked|adj|độc ác
+wise|adj|khôn ngoan
+wisely|adv|khôn ngoan
+wooden|adj|bằng gỗ
+worthless|adj|vô giá trị
+yearly|adj|hằng năm
+youthful|adj|trẻ trung
+afterward|adv|sau đó
+almost|adv|gần như
+anytime|adv|bất cứ lúc nào
+backward|adv|về phía sau
+barely|adv|vừa đủ, hầu như không
+besides|adv|ngoài ra
+downward|adv|xuống dưới
+elsewhere|adv|ở nơi khác
+forth|adv|về phía trước
+fully|adv|đầy đủ
+greatly|adv|rất nhiều
+hence|adv|do đó
+honestly|adv|thành thật mà nói
+hopefully|adv|hy vọng là
+largely|adv|phần lớn
+meanwhile|adv|trong khi đó
+merely|adv|chỉ đơn thuần
+nowadays|adv|ngày nay
+nowhere|adv|không nơi nào
+overnight|adv|qua đêm
+partly|adv|một phần
+personally|adv|về phần mình
+possibly|adv|có thể
+quite|adv|khá
+seldom|adv|hiếm khi
+shortly|adv|ngay sau đó
+somehow|adv|bằng cách nào đó
+somewhat|adv|hơi, phần nào
+straightaway|adv|ngay lập tức
+therefore|adv|do đó
+thus|adv|vì vậy
+totally|adv|hoàn toàn
+upward|adv|lên trên
+lightly|adv|nhẹ
+wildly|adv|dữ dội
+deliciously|adv|ngon lành
+happily|adv|vui vẻ
+angrily|adv|giận dữ
+easily|adv|dễ dàng

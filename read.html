@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bài đọc</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">📖 Học từ vựng</a>
+    <nav>
+      <a href="index.html" class="active">Bài đọc</a>
+      <a href="dictionary.html">Từ điển</a>
+      <a href="review.html">Ôn tập <span class="badge" id="badge">0</span></a>
+    </nav>
+  </header>
+  <main>
+    <div class="toolbar">
+      <a class="btn" href="index.html">← Danh sách bài</a>
+      <button class="btn" id="print" type="button">🖨️ In bài này (A4)</button>
+      <span class="muted" id="info"></span>
+    </div>
+    <article class="sheet" id="sheet"></article>
+    <section class="story-words">
+      <h2>Từ chưa biết trong bài này (<span id="sw-count">0</span>)</h2>
+      <p class="muted" id="sw-empty">Bấm vào một từ trong bài rồi chọn “Chưa biết” để thêm vào đây.</p>
+      <div class="chips" id="chips"></div>
+    </section>
+    <nav class="pager" id="pager"></nav>
+  </main>
+
+  <div class="popup" id="popup" hidden role="dialog" aria-label="Nghĩa của từ">
+    <div class="head">
+      <span class="word" id="p-word"></span>
+      <button class="speak" id="p-speak" type="button" title="Nghe phát âm" aria-label="Nghe phát âm">🔊</button>
+      <button class="close" id="p-close" type="button" aria-label="Đóng">×</button>
+    </div>
+    <div class="form" id="p-form"></div>
+    <div class="pos" id="p-pos"></div>
+    <div class="meaning" id="p-meaning"></div>
+    <div class="actions">
+      <button class="btn small" id="p-toggle" type="button"></button>
+      <a class="btn small" id="p-dict" href="#">Xem trong từ điển</a>
+    </div>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/lemma.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/read.js"></script>
+</body>
+</html>

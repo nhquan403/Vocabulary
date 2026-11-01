@@ -1,0 +1,259 @@
+# word|part of speech|Vietnamese meaning
+achieve|v|đạt được
+act|v|hành động
+adapt|v|thích nghi
+adjust|v|điều chỉnh
+afford|v|có đủ tiền
+aim|v|nhắm đến
+appreciate|v|trân trọng
+argue|v|tranh cãi
+arrange|v|sắp xếp
+attack|v|tấn công
+attract|v|thu hút
+bark|v|sủa
+beg|v|cầu xin
+behave|v|cư xử
+bet|v|cá cược
+bless|v|ban phước
+blame|v|đổ lỗi
+boast|v|khoe khoang
+bounce|v|nảy lên
+bow|v|cúi chào
+brush|v|chải
+bump|v|va vào
+bury|v|chôn
+calm|v|làm dịu
+care|v|quan tâm
+chase|v|đuổi theo
+chat|v|trò chuyện
+cheat|v|gian lận
+chew|v|nhai
+clap|v|vỗ tay
+collect|v|thu gom
+comfort|v|an ủi
+communicate|v|giao tiếp
+compete|v|cạnh tranh
+concentrate|v|tập trung
+confirm|v|xác nhận
+consider|v|cân nhắc
+contain|v|chứa đựng
+cooperate|v|hợp tác
+crash|v|đâm, va chạm
+crawl|v|bò
+cuddle|v|ôm ấp
+dare|v|dám
+deny|v|phủ nhận
+deserve|v|xứng đáng
+design|v|thiết kế
+dial|v|quay số
+disagree|v|không đồng ý
+dislike|v|không thích
+divide|v|chia
+download|v|tải xuống
+drag|v|kéo lê
+drown|v|chết đuối
+dry|v|làm khô
+earn|v|kiếm được
+educate|v|giáo dục
+encourage|v|khuyến khích
+escape|v|trốn thoát
+exist|v|tồn tại
+expand|v|mở rộng
+experiment|v|thí nghiệm
+express|v|bày tỏ
+fasten|v|thắt, buộc chặt
+fetch|v|đi lấy về
+float|v|nổi
+flow|v|chảy
+focus|v|tập trung
+fry|v|chiên
+gather|v|tụ tập, thu thập
+giggle|v|cười khúc khích
+glance|v|liếc nhìn
+glow|v|phát sáng
+grab|v|chộp lấy
+greet|v|chào
+grin|v|cười toe toét
+guard|v|canh gác
+handle|v|xử lý
+harvest|v|thu hoạch
+hesitate|v|do dự
+hug|v|ôm
+hunt|v|săn bắt
+ignore|v|phớt lờ
+impress|v|gây ấn tượng
+inform|v|thông báo
+insist|v|khăng khăng
+install|v|cài đặt
+intend|v|dự định
+interrupt|v|ngắt lời
+investigate|v|điều tra
+jog|v|chạy bộ
+judge|v|đánh giá, phán xét
+kneel|v|quỳ
+knit|v|đan
+lean|v|dựa vào
+lick|v|liếm
+limit|v|giới hạn
+link|v|liên kết
+load|v|chất hàng
+log|v|ghi lại, đăng nhập
+manage|v|quản lý
+measure|v|đo
+memorize|v|ghi nhớ
+mend|v|vá, sửa
+murmur|v|thì thầm
+nod|v|gật đầu
+observe|v|quan sát
+obtain|v|đạt được
+occur|v|xảy ra
+operate|v|vận hành
+own|v|sở hữu
+paint|v|sơn
+pause|v|tạm dừng
+perform|v|biểu diễn, thực hiện
+persuade|v|thuyết phục
+pinch|v|véo
+plant|v|trồng
+pray|v|cầu nguyện
+pretend|v|giả vờ
+protect|v|bảo vệ
+prove|v|chứng minh
+pump|v|bơm
+punch|v|đấm
+quit|v|bỏ, từ bỏ
+rain|v|mưa
+recommend|v|giới thiệu, khuyên
+reduce|v|giảm
+reflect|v|phản chiếu, suy ngẫm
+regret|v|hối tiếc
+relax|v|thư giãn
+rely|v|dựa vào
+replace|v|thay thế
+rescue|v|giải cứu
+reserve|v|đặt trước
+respect|v|tôn trọng
+respond|v|phản hồi
+review|v|ôn tập, xem lại
+reward|v|thưởng
+rinse|v|xả, tráng nước
+roll|v|lăn, cuộn
+rub|v|chà xát
+ruin|v|làm hỏng
+scare|v|làm sợ
+scream|v|hét
+seal|v|niêm phong
+select|v|chọn lựa
+settle|v|ổn định, giải quyết
+sew|v|may vá
+shave|v|cạo râu
+shiver|v|run rẩy
+shut|v|đóng
+sigh|v|thở dài
+skip|v|bỏ qua, nhảy dây
+slap|v|tát
+slide|v|trượt
+slip|v|trượt chân
+smash|v|đập vỡ
+sniff|v|hít, ngửi
+snore|v|ngáy
+soak|v|ngâm
+solve|v|giải quyết
+sort|v|phân loại
+spare|v|dành ra
+spray|v|xịt
+squeeze|v|vắt, bóp
+stare|v|nhìn chằm chằm
+starve|v|chết đói
+steer|v|lái
+stick|v|dán, dính
+sting|v|chích, đốt
+store|v|cất giữ
+struggle|v|vật lộn
+succeed|v|thành công
+suffer|v|chịu đựng
+supply|v|cung cấp
+surround|v|bao quanh
+survive|v|sống sót
+swallow|v|nuốt
+swap|v|đổi
+swing|v|đung đưa
+tap|v|gõ nhẹ
+tease|v|trêu chọc
+tear|v|xé
+thank|v|cảm ơn
+threaten|v|đe dọa
+tickle|v|cù
+tie|v|buộc
+toss|v|tung, ném
+trade|v|buôn bán
+translate|v|dịch
+trap|v|bẫy
+tremble|v|run
+trip|v|vấp ngã
+unlock|v|mở khóa
+unpack|v|dỡ đồ
+upload|v|tải lên
+upset|v|làm buồn lòng
+vote|v|bỏ phiếu
+wander|v|đi lang thang
+warn|v|cảnh báo
+wave|v|vẫy tay
+wipe|v|lau
+wonder|v|tự hỏi
+wrap|v|gói
+yell|v|la hét
+zip|v|kéo khóa
+accompany|v|đi cùng
+admire|v|ngưỡng mộ
+announce|v|thông báo
+appear|v|xuất hiện
+approach|v|tiếp cận
+attach|v|gắn, đính kèm
+belong|v|thuộc về
+book|v|đặt chỗ
+celebrate|v|ăn mừng
+chop|v|chặt
+dive|v|lặn
+donate|v|quyên góp
+drip|v|nhỏ giọt
+embrace|v|ôm
+fold|v|gấp
+forgive|v|tha thứ
+greet|v|chào đón
+hurry|v|nhanh lên
+invent|v|phát minh
+kneel|v|quỳ
+lend|v|cho mượn
+lie|v|nằm
+mention|v|nhắc đến
+miss|v|nhớ
+nap|v|chợp mắt
+order|v|gọi món
+park|v|đỗ xe
+peel|v|bóc vỏ
+pour|v|rót
+print|v|in
+queue|v|xếp hàng
+recycle|v|tái chế
+rent|v|thuê
+rush|v|vội
+save|v|tiết kiệm
+scan|v|quét
+shine|v|chiếu sáng
+shrug|v|nhún vai
+sink|v|chìm
+smile|v|mỉm cười
+sneak|v|lén lút
+spin|v|quay tròn
+splash|v|té nước
+stack|v|xếp chồng
+stir|v|khuấy
+stretch|v|vươn vai
+sweep|v|quét
+taste|v|nếm
+text|v|nhắn tin
+water|v|tưới
+weigh|v|cân
+whistle|v|huýt sáo
+worship|v|thờ cúng

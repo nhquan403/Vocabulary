@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Học từ vựng qua bài đọc</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">📖 Học từ vựng</a>
+    <nav>
+      <a href="index.html" class="active">Bài đọc</a>
+      <a href="dictionary.html">Từ điển</a>
+      <a href="review.html">Ôn tập <span class="badge" id="badge">0</span></a>
+    </nav>
+  </header>
+  <main>
+    <h1>Bài đọc về cuộc sống hằng ngày</h1>
+    <p class="muted">Bấm vào một bài để đọc. Trong bài, bấm vào bất kỳ từ nào để xem nghĩa và thêm từ đó vào danh sách ôn tập. Mỗi bài khoảng 1500 từ và in vừa giấy A4.</p>
+    <div class="stats">
+      <div class="stat"><b id="s-stories">0</b>bài đọc</div>
+      <div class="stat"><b id="s-words">0</b>từ trong từ điển</div>
+      <div class="stat"><b id="s-unknown">0</b>từ đang ôn tập</div>
+    </div>
+    <ul class="story-list" id="list"></ul>
+  </main>
+  <script src="js/data.js"></script>
+  <script src="js/lemma.js"></script>
+  <script src="js/common.js"></script>
+  <script>
+    (function () {
+      var esc = App.escapeHtml;
+      var dictCount = Object.keys(DICT).filter(function (k) { return DICT[k].p !== 'name'; }).length;
+      var unknown = App.Store.all();
+      document.getElementById('s-stories').textContent = STORIES.length;
+      document.getElementById('s-words').textContent = dictCount;
+      document.getElementById('s-unknown').textContent = unknown.length;
+      document.getElementById('badge').textContent = unknown.length;
+      document.getElementById('list').innerHTML = STORIES.map(function (s, i) {
+        return '<li><a href="read.html?id=' + encodeURIComponent(s.id) + '">' +
+          '<span><span class="num">' + (i + 1) + '.</span>' + esc(s.title) + '</span>' +
+          '<span class="meta">' + s.words + ' từ</span></a></li>';
+      }).join('');
+    })();
+  </script>
+</body>
+</html>

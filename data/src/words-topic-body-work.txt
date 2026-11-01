@@ -1,0 +1,174 @@
+# word|part of speech|Vietnamese meaning
+# --- body and health ---
+allergy|n|dị ứng
+ambulance|n|xe cứu thương
+backache|n|đau lưng
+beat|v|đập (tim), đánh bại
+bleed|v|chảy máu
+blister|n|vết phồng rộp
+bruise|n|vết bầm
+burn|n|vết bỏng
+chemist|n|dược sĩ, nhà thuốc
+cheekbone|n|xương gò má
+cure|n|cách chữa
+disease|n|bệnh
+dizzy|adj|chóng mặt
+earache|n|đau tai
+exhausted|adj|kiệt sức
+eyesight|n|thị lực
+fingernail|n|móng tay
+fitness|n|sự khỏe mạnh, thể hình
+forehead|n|trán
+heal|v|chữa lành
+heartbeat|n|nhịp tim
+hip|n|hông
+infection|n|sự nhiễm trùng
+injure|v|làm bị thương
+itch|v|ngứa
+jaw|n|hàm
+kidney|n|thận
+liver|n|gan
+lung|n|phổi
+muscle|n|cơ bắp
+nap|n|giấc ngủ ngắn
+operation|n|ca phẫu thuật
+pale|adj|nhợt nhạt
+pharmacy|n|hiệu thuốc
+pulse|n|mạch
+recover|v|hồi phục
+rash|n|phát ban
+sneeze|v|hắt hơi
+sore|adj|đau nhức
+stomachache|n|đau bụng
+sweat|n/v|mồ hôi; đổ mồ hôi
+symptom|n|triệu chứng
+tablet|n|viên thuốc, máy tính bảng
+temperature|n|nhiệt độ, sốt
+thermometer|n|nhiệt kế
+toothache|n|đau răng
+treat|v|điều trị, đối xử, chiêu đãi
+treatment|n|sự điều trị
+vitamin|n|vitamin
+waist|n|eo
+wound|n|vết thương
+yawn|v|ngáp
+belly|n|bụng
+blink|v|chớp mắt
+brow|n|lông mày, trán
+eyelid|n|mí mắt
+fist|n|nắm đấm
+footstep|n|bước chân
+heel|n|gót chân
+lap|n|lòng (khi ngồi)
+palm|n|lòng bàn tay, cây cọ
+shin|n|ống chân
+spine|n|cột sống
+stretch|v|duỗi, căng
+throat|n|cổ họng
+wheelchair|n|xe lăn
+checkup|n|buổi khám sức khỏe
+# --- work, school, money ---
+accountant|n|kế toán
+apply|v|nộp đơn, áp dụng
+assistant|n|trợ lý
+attend|v|tham dự
+bonus|n|tiền thưởng
+budget|n|ngân sách
+calculator|n|máy tính bỏ túi
+career|n|sự nghiệp
+cashier|n|thu ngân
+chairperson|n|chủ tọa
+cleaner|n|người dọn dẹp
+client|n|khách hàng
+colleague|n|đồng nghiệp
+contract|n|hợp đồng
+coworker|n|đồng nghiệp
+deadline|n|hạn chót
+debt|n|món nợ
+designer|n|nhà thiết kế
+document|n|tài liệu
+earnings|n|thu nhập
+employ|v|thuê, tuyển dụng
+employee|n|nhân viên
+employer|n|chủ, người sử dụng lao động
+farmer|n|nông dân
+fee|n|phí
+file|n|tập tin, hồ sơ
+firefighter|n|lính cứu hỏa
+hairdresser|n|thợ làm tóc
+headteacher|n|hiệu trưởng
+homeroom|n|lớp chủ nhiệm
+invest|v|đầu tư
+lecture|n|bài giảng
+loan|n|khoản vay
+mechanic|n|thợ máy
+manage|v|quản lý, xoay xở
+mark|n|điểm số, dấu
+musician|n|nhạc sĩ
+overtime|n|giờ làm thêm
+owe|v|nợ
+paycheck|n|phiếu lương
+pilot|n|phi công
+plumber|n|thợ sửa ống nước
+postman|n|người đưa thư
+printer|n|máy in
+professor|n|giáo sư
+project|n|dự án
+promotion|n|sự thăng chức, khuyến mãi
+receipt|n|biên lai
+receptionist|n|lễ tân
+resign|v|từ chức
+retire|v|nghỉ hưu
+schedule|n|lịch trình
+scientist|n|nhà khoa học
+secretary|n|thư ký
+seller|n|người bán
+shift|n|ca làm việc
+shopkeeper|n|chủ cửa hàng
+staff|n|nhân viên
+task|n|nhiệm vụ
+teamwork|n|làm việc nhóm
+tutor|n|gia sư
+uniform|n|đồng phục
+wage|n|tiền công
+workplace|n|nơi làm việc
+cheap|adj|rẻ
+coupon|n|phiếu giảm giá
+discount|n|sự giảm giá
+afford|v|có đủ khả năng chi trả
+spend|v|tiêu
+saving|n|tiền tiết kiệm
+salesperson|n|nhân viên bán hàng
+shopper|n|người mua sắm
+trolley|n|xe đẩy hàng
+counter|n|quầy
+cart|n|xe đẩy
+checkout|n|quầy thanh toán
+refund|n|sự hoàn tiền
+brand|n|nhãn hiệu
+quality|n|chất lượng
+size|n|kích cỡ
+bargain|n|món hời
+wealth|n|sự giàu có
+rich|adj|giàu
+poverty|n|sự nghèo đói
+homework|n|bài tập về nhà
+blackboard|n|bảng đen
+chalk|n|phấn
+quiz|n|bài kiểm tra ngắn
+grammar|n|ngữ pháp
+vocabulary|n|từ vựng
+geography|n|môn địa lý
+biology|n|môn sinh học
+chemistry|n|môn hóa học
+physics|n|môn vật lý
+literature|n|văn học
+semester|n|học kỳ
+term|n|học kỳ, thuật ngữ
+textbook|n|sách giáo khoa
+scholarship|n|học bổng
+graduate|v|tốt nghiệp
+graduation|n|lễ tốt nghiệp
+principal|n|hiệu trưởng
+kindergarten|n|trường mẫu giáo
+uniformed|adj|mặc đồng phục

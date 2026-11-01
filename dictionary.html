@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Từ điển</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">📖 Học từ vựng</a>
+    <nav>
+      <a href="index.html">Bài đọc</a>
+      <a href="dictionary.html" class="active">Từ điển</a>
+      <a href="review.html">Ôn tập <span class="badge" id="badge">0</span></a>
+    </nav>
+  </header>
+  <main>
+    <h1>Từ điển</h1>
+    <p class="muted">Tìm bằng tiếng Anh hoặc tiếng Việt. Bấm “Chưa biết” để thêm từ vào danh sách ôn tập, bấm 🔊 để nghe phát âm.</p>
+    <div class="search-row">
+      <input type="search" id="q" placeholder="Nhập từ cần tìm, ví dụ: kitchen hoặc nhà bếp" autocomplete="off" autofocus>
+      <select id="filter" class="btn">
+        <option value="all">Tất cả từ</option>
+        <option value="unknown">Chỉ từ chưa biết</option>
+        <option value="story">Chỉ từ có trong bài đọc</option>
+      </select>
+    </div>
+    <div class="letters" id="letters"></div>
+    <p class="muted" id="count"></p>
+    <ul class="dict" id="dict"></ul>
+    <div class="more"><button class="btn" id="more" type="button" hidden>Xem thêm</button></div>
+  </main>
+  <script src="js/data.js"></script>
+  <script src="js/lemma.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/dictionary.js"></script>
+</body>
+</html>

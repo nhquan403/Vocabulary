@@ -1,0 +1,289 @@
+# word|part of speech|Vietnamese meaning
+absence|n|sự vắng mặt
+access|n|quyền truy cập, lối vào
+addition|n|sự thêm vào, phép cộng
+adopt|v|nhận nuôi
+advance|n|sự tiến bộ
+advertise|v|quảng cáo
+affect|v|ảnh hưởng
+aid|n|sự trợ giúp
+album|n|an-bum
+alcohol|n|rượu, cồn
+alphabet|n|bảng chữ cái
+angle|n|góc
+annual|adj|hằng năm
+applause|n|tràng vỗ tay
+application|n|đơn xin, ứng dụng
+arrow|n|mũi tên
+aside|adv|sang một bên
+assist|v|hỗ trợ
+atmosphere|n|bầu không khí
+attempt|n/v|nỗ lực; cố gắng
+audience|n|khán giả
+automatic|adj|tự động
+award|n|giải thưởng
+baker|n|thợ làm bánh
+balloon|n|bóng bay
+barber|n|thợ cắt tóc nam
+base|n|nền tảng, căn cứ
+basin|n|cái chậu
+bathe|v|tắm
+beak|n|mỏ chim
+beginner|n|người mới bắt đầu
+beneath|prep|bên dưới
+beyond|prep|vượt ra ngoài
+birthplace|n|nơi sinh
+blade|n|lưỡi dao
+blond|adj|tóc vàng
+bug|n|con bọ, lỗi
+bunch|n|bó, chùm
+burst|v|nổ tung, bật ra
+cable|n|dây cáp
+cafeteria|n|nhà ăn
+campus|n|khuôn viên trường
+capable|adj|có khả năng
+captain|n|thuyền trưởng, đội trưởng
+castle|n|lâu đài
+cattle|n|gia súc
+cell|n|tế bào, phòng giam
+chain|n|dây xích, chuỗi
+champion|n|nhà vô địch
+chart|n|biểu đồ
+choir|n|dàn hợp xướng
+circus|n|rạp xiếc
+citizen|n|công dân
+clay|n|đất sét
+clerk|n|thư ký, nhân viên
+code|n|mã
+column|n|cột
+combine|v|kết hợp
+complaint|n|lời phàn nàn
+conclusion|n|kết luận
+corridor|n|hành lang
+costume|n|trang phục
+cottage|n|nhà tranh, nhà nhỏ ở quê
+crack|n/v|vết nứt; nứt
+crew|n|phi hành đoàn, đội
+crown|n|vương miện
+cultural|adj|thuộc văn hóa
+dairy|n|sản phẩm từ sữa
+darkness|n|bóng tối
+dash|v|lao đi
+debate|n|cuộc tranh luận
+delay|n/v|sự chậm trễ; trì hoãn
+demand|n/v|nhu cầu; yêu cầu
+depart|v|khởi hành
+deposit|n|tiền đặt cọc
+diamond|n|kim cương
+dice|n|xúc xắc
+dinosaur|n|khủng long
+dirt|n|bụi bẩn, đất
+disabled|adj|khuyết tật
+dot|n|dấu chấm
+dragon|n|con rồng
+drill|n|máy khoan
+drum|n|cái trống
+dye|v|nhuộm
+eastern|adj|thuộc phía đông
+ease|n|sự dễ dàng
+echo|n|tiếng vang
+edit|v|chỉnh sửa
+elder|adj|lớn tuổi hơn
+element|n|yếu tố
+enormous|adj|to lớn
+entry|n|lối vào, mục
+envy|n|sự ghen tị
+equipment|n|thiết bị
+essay|n|bài luận
+examine|v|kiểm tra, khám
+expert|n|chuyên gia
+explode|v|nổ
+extend|v|kéo dài, mở rộng
+fabric|n|vải
+fade|v|phai màu
+fairy|n|nàng tiên
+faith|n|niềm tin
+feather|n|lông vũ
+feature|n|đặc điểm
+fellow|n|người bạn, đồng chí
+fiction|n|truyện hư cấu
+figure|n|con số, hình dáng
+firework|n|pháo hoa
+flame|n|ngọn lửa
+flash|n|tia sáng, đèn flash
+foam|n|bọt
+folk|n|dân gian, người
+fond|adj|thích, yêu mến
+fool|n|kẻ ngốc
+forbid|v|cấm
+forecast|n|dự báo
+fortnight|n|hai tuần
+frame|n|khung
+freezer|n|tủ đông
+frighten|v|làm sợ hãi
+fur|n|lông thú
+gallery|n|phòng trưng bày
+gap|n|khoảng trống
+gesture|n|cử chỉ
+ghost|n|con ma
+giraffe|n|hươu cao cổ
+glue|n|keo dán
+golf|n|môn gôn
+goods|n|hàng hóa
+gossip|n/v|chuyện phiếm; buôn chuyện
+grave|n|ngôi mộ
+handkerchief|n|khăn tay
+harbor|n|bến cảng
+hay|n|cỏ khô
+hedge|n|hàng rào cây
+herd|n|đàn (gia súc)
+hike|v/n|đi bộ đường dài; chuyến đi bộ
+hint|n|gợi ý
+honeymoon|n|tuần trăng mật
+horn|n|sừng, còi xe
+hut|n|túp lều
+image|n|hình ảnh
+ink|n|mực
+insult|v|xúc phạm
+invention|n|phát minh
+jelly|n|thạch
+jewel|n|đồ trang sức, đá quý
+joint|n|khớp
+journalist|n|nhà báo
+jug|n|cái bình
+kingdom|n|vương quốc
+kit|n|bộ dụng cụ
+knot|n|nút thắt
+label|n|nhãn
+lack|n/v|sự thiếu; thiếu
+lamb|n|cừu non
+layer|n|lớp
+leak|v/n|rò rỉ; chỗ rò
+liquid|n|chất lỏng
+litter|n|rác vứt bừa bãi
+loaf|n|ổ bánh mì
+lobby|n|sảnh
+lounge|n|phòng chờ
+marble|n|đá cẩm thạch, viên bi
+marker|n|bút dạ
+mask|n|mặt nạ, khẩu trang
+mat|n|tấm thảm nhỏ, chiếu
+mayor|n|thị trưởng
+meadow|n|đồng cỏ
+melody|n|giai điệu
+mental|adj|thuộc tinh thần
+metro|n|tàu điện
+microphone|n|micrô
+mist|n|sương mù nhẹ
+mixture|n|hỗn hợp
+model|n|người mẫu, mô hình
+monster|n|quái vật
+motor|n|động cơ
+mystery|n|điều bí ẩn
+net|n|cái lưới
+oak|n|cây sồi
+ought|modal|nên
+outfit|n|bộ trang phục
+oval|adj|hình bầu dục
+pad|n|miếng đệm, tập giấy
+palace|n|cung điện
+panic|n/v|sự hoảng loạn; hoảng sợ
+parade|n|cuộc diễu hành
+parcel|n|bưu kiện
+pardon|int|xin lỗi, xin nhắc lại
+paste|n|bột nhão, hồ dán
+paw|n|bàn chân (thú)
+pearl|n|ngọc trai
+pedal|n|bàn đạp
+penny|n|đồng xu
+petrol|n|xăng
+phrase|n|cụm từ
+pile|n|đống
+pin|n|cái ghim
+pipe|n|ống
+pirate|n|cướp biển
+poet|n|nhà thơ
+poison|n|chất độc
+pole|n|cái cột
+portrait|n|chân dung
+powder|n|bột
+prayer|n|lời cầu nguyện
+prince|n|hoàng tử
+princess|n|công chúa
+profit|n|lợi nhuận
+puppet|n|con rối
+quarrel|n/v|cuộc cãi nhau; cãi nhau
+rat|n|con chuột cống
+ray|n|tia
+razor|n|dao cạo
+reader|n|người đọc
+reception|n|quầy lễ tân, sự tiếp đón
+rectangle|n|hình chữ nhật
+region|n|vùng
+resort|n|khu nghỉ dưỡng
+rhythm|n|nhịp điệu
+ribbon|n|dải ruy băng
+riddle|n|câu đố
+robot|n|người máy
+rocket|n|tên lửa
+rumor|n|tin đồn
+sail|v/n|đi thuyền buồm; cánh buồm
+sailor|n|thủy thủ
+saucer|n|đĩa lót tách
+scale|n|cái cân, quy mô
+scene|n|cảnh
+scent|n|mùi hương
+scratch|v|gãi, cào
+screw|n|đinh vít
+shell|n|vỏ
+shepherd|n|người chăn cừu
+signal|n|tín hiệu
+silk|n|lụa
+skate|v|trượt băng
+sketch|n|bản phác họa
+slope|n|con dốc
+soul|n|tâm hồn
+spark|n|tia lửa
+spot|n/v|vết, chỗ; phát hiện
+stable|adj|ổn định
+stage|n|sân khấu, giai đoạn
+stain|n|vết bẩn
+stall|n|quầy hàng
+steel|n|thép
+stem|n|thân cây, cuống
+stripe|n|sọc
+stuff|n|đồ đạc, thứ
+sum|n|tổng
+sunlight|n|ánh nắng
+surface|n|bề mặt
+swan|n|thiên nga
+symbol|n|biểu tượng
+tank|n|bể chứa
+tape|n|băng dính
+target|n|mục tiêu
+tax|n|thuế
+teapot|n|ấm trà
+temper|n|tính khí
+thread|n|sợi chỉ
+tick|v|đánh dấu, kêu tích tắc
+tin|n|hộp thiếc, lon
+ton|n|tấn
+torch|n|đèn pin, ngọn đuốc
+tractor|n|máy kéo
+treasure|n|kho báu
+trumpet|n|kèn trumpet
+tube|n|ống, tàu điện ngầm
+tune|n|giai điệu
+twig|n|cành con
+tyre|n|lốp xe
+tire|n|lốp xe
+urge|v|thúc giục
+verb|n|động từ
+vet|n|bác sĩ thú y
+violin|n|đàn vi-ô-lông
+wax|n|sáp
+web|n|mạng nhện, mạng
+wheat|n|lúa mì
+wire|n|dây điện
+wool|n|len
+yolk|n|lòng đỏ trứng

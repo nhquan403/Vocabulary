@@ -1,0 +1,235 @@
+# word|part of speech|Vietnamese meaning
+table|n|cái bàn
+tail|n|cái đuôi
+take|v|lấy, cầm, mang đi
+talk|v|nói chuyện
+tall|adj|cao
+taste|v/n|nếm, có vị; vị
+taxi|n|xe taxi
+tea|n|trà
+teach|v|dạy
+teacher|n|giáo viên
+team|n|đội
+tear|n|nước mắt
+teeth|n|răng (số nhiều)
+telephone|n|điện thoại
+television|n|ti vi
+tell|v|kể, bảo
+temperature|n|nhiệt độ
+temple|n|ngôi chùa, đền
+ten|num|số mười
+tent|n|cái lều
+terrible|adj|khủng khiếp
+test|n|bài kiểm tra
+text|n/v|văn bản; nhắn tin
+than|conj|hơn
+thank|v|cảm ơn
+thanks|int|cảm ơn
+that|det/pron|đó, kia
+the|det|cái, con (mạo từ xác định)
+theater|n|nhà hát
+their|det|của họ
+theirs|pron|của họ
+them|pron|họ, chúng (tân ngữ)
+themselves|pron|chính họ
+then|adv|sau đó, lúc đó
+there|adv|ở đó
+these|det|những cái này
+they|pron|họ, chúng
+thick|adj|dày
+thief|n|tên trộm
+thin|adj|mỏng, gầy
+thing|n|đồ vật, điều
+think|v|nghĩ
+third|adj|thứ ba
+thirsty|adj|khát
+thirteen|num|mười ba
+thirty|num|ba mươi
+this|det|cái này
+those|det|những cái kia
+though|conj|mặc dù
+thought|n|suy nghĩ
+thousand|num|một nghìn
+three|num|số ba
+throat|n|cổ họng
+through|prep|xuyên qua
+throw|v|ném
+thumb|n|ngón tay cái
+ticket|n|vé
+tidy|adj/v|gọn gàng; dọn dẹp
+tie|n/v|cà vạt; buộc
+tiger|n|con hổ
+tight|adj|chật
+till|prep|cho đến khi
+time|n|thời gian, lần
+tiny|adj|nhỏ xíu
+tip|n|tiền boa, mẹo
+tired|adj|mệt mỏi
+to|prep|đến, tới
+toast|n|bánh mì nướng
+today|adv|hôm nay
+toe|n|ngón chân
+together|adv|cùng nhau
+toilet|n|nhà vệ sinh
+tomato|n|cà chua
+tomorrow|adv|ngày mai
+tone|n|giọng điệu
+tongue|n|cái lưỡi
+tonight|adv|tối nay
+too|adv|cũng, quá
+tool|n|dụng cụ
+tooth|n|răng
+toothbrush|n|bàn chải đánh răng
+toothpaste|n|kem đánh răng
+top|n|đỉnh, phía trên
+total|n|tổng cộng
+touch|v|chạm
+tour|n|chuyến tham quan
+tourist|n|khách du lịch
+towel|n|khăn tắm
+tower|n|tòa tháp
+town|n|thị trấn
+toy|n|đồ chơi
+traffic|n|giao thông
+train|n/v|tàu hỏa; huấn luyện
+training|n|sự đào tạo
+travel|v|đi du lịch
+tree|n|cái cây
+trip|n|chuyến đi
+trouble|n|rắc rối
+trousers|n|quần dài
+truck|n|xe tải
+true|adj|đúng, thật
+trust|v|tin tưởng
+truth|n|sự thật
+try|v|cố gắng, thử
+turn|v/n|rẽ, quay; lượt
+twelve|num|mười hai
+twenty|num|hai mươi
+twice|adv|hai lần
+twin|n|sinh đôi
+two|num|số hai
+type|n/v|loại; gõ (bàn phím)
+typical|adj|điển hình
+ugly|adj|xấu xí
+umbrella|n|cái ô
+uncle|n|chú, bác, cậu
+under|prep|ở dưới
+understand|v|hiểu
+uniform|n|đồng phục
+university|n|trường đại học
+unless|conj|trừ khi
+until|prep|cho đến khi
+up|adv|lên
+upset|adj|buồn bực
+upstairs|adv|ở tầng trên
+us|pron|chúng tôi (tân ngữ)
+use|v|sử dụng
+useful|adj|hữu ích
+usual|adj|thông thường
+usually|adv|thường thường
+vacation|n|kỳ nghỉ
+valley|n|thung lũng
+value|n|giá trị
+vegetable|n|rau củ
+very|adv|rất
+video|n|video
+view|n|quang cảnh
+village|n|ngôi làng
+visit|v/n|thăm; chuyến thăm
+visitor|n|khách tham quan
+voice|n|giọng nói
+wait|v|chờ đợi
+waiter|n|bồi bàn nam
+waitress|n|bồi bàn nữ
+wake|v|thức dậy
+walk|v/n|đi bộ; cuộc đi dạo
+wall|n|bức tường
+wallet|n|cái ví
+want|v|muốn
+war|n|chiến tranh
+warm|adj|ấm áp
+wash|v|rửa, giặt
+washing|n|việc giặt giũ (washing machine: máy giặt)
+waste|v/n|lãng phí; rác thải
+watch|v/n|xem; đồng hồ đeo tay
+water|n/v|nước; tưới nước
+watermelon|n|dưa hấu
+wave|n/v|sóng; vẫy tay
+way|n|con đường, cách
+we|pron|chúng tôi, chúng ta
+weak|adj|yếu
+wear|v|mặc, đeo
+weather|n|thời tiết
+wedding|n|đám cưới
+week|n|tuần
+weekend|n|cuối tuần
+weekly|adj|hằng tuần
+weigh|v|cân nặng
+weight|n|cân nặng
+welcome|v/int|chào đón; chào mừng
+well|adv/adj|tốt, giỏi; khỏe
+west|n|phía tây
+wet|adj|ướt
+what|pron|cái gì
+wheel|n|bánh xe
+when|adv|khi nào
+where|adv|ở đâu
+whether|conj|liệu
+which|pron|cái nào
+while|conj|trong khi
+whisper|v|thì thầm
+white|adj|màu trắng
+who|pron|ai
+whole|adj|toàn bộ
+whose|pron|của ai
+why|adv|tại sao
+wide|adj|rộng
+wife|n|vợ
+wild|adj|hoang dã
+will|modal|sẽ
+win|v|chiến thắng
+wind|n|gió
+window|n|cửa sổ
+windy|adj|có gió
+wine|n|rượu vang
+wing|n|cánh
+winner|n|người chiến thắng
+winter|n|mùa đông
+wish|v/n|ước; điều ước
+with|prep|với
+without|prep|không có
+woman|n|người phụ nữ
+wonder|v|tự hỏi
+wonderful|adj|tuyệt vời
+wood|n|gỗ
+wooden|adj|bằng gỗ
+word|n|từ
+work|v/n|làm việc; công việc
+worker|n|công nhân
+world|n|thế giới
+worried|adj|lo lắng
+worry|v|lo lắng
+worse|adj|tệ hơn
+worst|adj|tệ nhất
+worth|adj|đáng giá
+would|modal|sẽ (quá khứ của will)
+wrap|v|gói, bọc
+wrist|n|cổ tay
+write|v|viết
+writer|n|nhà văn
+wrong|adj|sai
+yard|n|sân
+yeah|int|ừ, vâng
+year|n|năm
+yellow|adj|màu vàng
+yes|adv|có, vâng
+yesterday|adv|hôm qua
+yet|adv|chưa, vẫn
+you|pron|bạn
+young|adj|trẻ
+your|det|của bạn
+yours|pron|của bạn
+yourself|pron|chính bạn
+zero|num|số không
+zoo|n|sở thú
