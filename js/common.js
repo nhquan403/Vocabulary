@@ -28,8 +28,27 @@
     speechSynthesis.onvoiceschanged = pickVoice;
   }
 
-  // Speak an English word. Only English is ever spoken.
+  // Recorded word audio (Kokoro voice); same file naming rule as scripts/generate-word-audio.py.
+  function wordAudioPath(word) {
+    return 'audio/words/' + encodeURIComponent(word.toLowerCase().replace(/'/g, '_')) + '.mp3';
+  }
+
+  var player = null;
+
+  // Speak an English word: play its recorded MP3, or fall back to the browser voice.
   function speak(text) {
+    if ('speechSynthesis' in window) speechSynthesis.cancel();
+    if (!player) player = new Audio();
+    player.pause();
+    var fellBack = false;
+    function fallback() { if (!fellBack) { fellBack = true; speakWithBrowser(text); } }
+    player.onerror = fallback;
+    player.src = wordAudioPath(text);
+    var p = player.play();
+    if (p && p.catch) p.catch(function (e) { if (e.name !== 'AbortError') fallback(); });
+  }
+
+  function speakWithBrowser(text) {
     if (!('speechSynthesis' in window)) {
       alert('Trình duyệt này không hỗ trợ đọc phát âm. Hãy dùng Chrome, Edge hoặc Safari.');
       return;

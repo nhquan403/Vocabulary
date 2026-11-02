@@ -14,7 +14,7 @@ Trang web tĩnh, không cần cài đặt hay mạng. Mở `index.html` bằng t
 
 Danh sách từ chưa biết được lưu trong trình duyệt (`localStorage`), nên sẽ mất nếu xóa dữ liệu trình duyệt hoặc dùng trình duyệt/máy khác.
 
-Phát âm dùng giọng đọc có sẵn của trình duyệt (Web Speech API, tiếng Anh Mỹ). Chất lượng giọng phụ thuộc vào hệ điều hành.
+Nút 🔊 phát file ghi âm từng từ (`audio/words/`, giọng Kokoro Mỹ nữ `af_heart`). Nếu thiếu file cho một từ, trang dùng giọng có sẵn của trình duyệt thay thế.
 
 ## Sửa nội dung
 
@@ -30,6 +30,12 @@ Dữ liệu gốc nằm trong `data/src/`:
 pip install kokoro-onnx soundfile numpy
 # tải kokoro-v1.0.onnx và voices-v1.0.bin từ https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0
 python scripts/generate-story-audio.py --model <thư-mục-chứa-mô-hình> 02-going-to-the-market
+```
+
+- `audio/words/<từ>.mp3` — file đọc từng từ (dấu `'` trong tên file đổi thành `_`, ví dụ `don_t.mp3`). Tạo hoặc bổ sung cho từ mới (bỏ qua file đã có):
+
+```
+python scripts/generate-word-audio.py --model <thư-mục-chứa-mô-hình>
 ```
 
 Sau khi sửa, chạy:
