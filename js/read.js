@@ -126,5 +126,72 @@
     (prev ? '<a class="btn" href="read.html?id=' + encodeURIComponent(prev.id) + '">← ' + esc(prev.title) + '</a>' : '<span></span>') +
     (next ? '<a class="btn" href="read.html?id=' + encodeURIComponent(next.id) + '">' + esc(next.title) + ' →</a>' : '<span></span>');
 
+  setupPlayer();
   refreshMarks();
+
+  // Full-story audio player (only for stories that have an audio file).
+  function setupPlayer() {
+    if (!story.audio) return;
+    var $ = function (id) { return document.getElementById(id); };
+    var audio = $('audio');
+    var seek = $('a-seek');
+    var play = $('a-play');
+    var RATE_KEY = 'vocab.playbackRate';
+    var seeking = false;
+
+    $('player').hidden = false;
+    audio.src = story.audio;
+
+    function fmt(t) {
+      if (!isFinite(t)) t = 0;
+      var m = Math.floor(t / 60);
+      var s = Math.floor(t % 60);
+      return m + ':' + (s < 10 ? '0' : '') + s;
+    }
+    function updateTime() {
+      if (!seeking) seek.value = audio.currentTime;
+      $('a-time').textContent = fmt(audio.currentTime) + ' / ' + fmt(audio.duration);
+    }
+    function toggle() { if (audio.paused) audio.play(); else audio.pause(); }
+    function skip(sec) {
+      audio.currentTime = Math.min(Math.max(0, audio.currentTime + sec), audio.duration || 0);
+      updateTime();
+    }
+    function setRate(r) {
+      audio.playbackRate = r;
+      $('a-rate').value = String(r);
+      try { localStorage.setItem(RATE_KEY, String(r)); } catch (e) { /* storage unavailable */ }
+    }
+
+    var saved = 1;
+    try { saved = parseFloat(localStorage.getItem(RATE_KEY)) || 1; } catch (e) { /* storage unavailable */ }
+    setRate(saved);
+
+    audio.addEventListener('loadedmetadata', function () { seek.max = audio.duration; updateTime(); });
+    audio.addEventListener('timeupdate', updateTime);
+    audio.addEventListener('play', function () { play.textContent = '⏸'; play.setAttribute('aria-label', 'Dừng'); });
+    audio.addEventListener('pause', function () { play.textContent = '▶'; play.setAttribute('aria-label', 'Phát'); });
+    // the browser resets playbackRate when a new source loads
+    audio.addEventListener('loadeddata', function () { audio.playbackRate = parseFloat($('a-rate').value); });
+
+    play.addEventListener('click', toggle);
+    $('a-back').addEventListener('click', function () { skip(-5); });
+    $('a-fwd').addEventListener('click', function () { skip(5); });
+    $('a-rate').addEventListener('change', function () { setRate(parseFloat(this.value)); });
+    $('a-loop').addEventListener('click', function () {
+      audio.loop = !audio.loop;
+      this.classList.toggle('on', audio.loop);
+      this.setAttribute('aria-pressed', String(audio.loop));
+    });
+    seek.addEventListener('input', function () { seeking = true; $('a-time').textContent = fmt(+seek.value) + ' / ' + fmt(audio.duration); });
+    seek.addEventListener('change', function () { audio.currentTime = +seek.value; seeking = false; });
+
+    document.addEventListener('keydown', function (ev) {
+      var tag = ev.target.tagName;
+      if (tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA') return;
+      if (ev.key === ' ') { ev.preventDefault(); toggle(); }
+      else if (ev.key === 'ArrowLeft') { ev.preventDefault(); skip(-5); }
+      else if (ev.key === 'ArrowRight') { ev.preventDefault(); skip(5); }
+    });
+  }
 })();

@@ -56,7 +56,11 @@ for (const f of fs.readdirSync(storyDir).filter((x) => x.endsWith('.txt')).sort(
       else usage[l] = (usage[l] || 0) + 1;
     }
   }
-  stories.push({ id: f.replace(/\.txt$/, ''), title, words: count, paragraphs });
+  const id = f.replace(/\.txt$/, '');
+  const audioPath = `audio/stories/${id}.mp3`;
+  const story = { id, title, words: count, paragraphs };
+  if (fs.existsSync(path.join(ROOT, audioPath))) story.audio = audioPath;
+  stories.push(story);
 }
 
 const names = Object.values(dict).filter((e) => e.p === 'name').length;
