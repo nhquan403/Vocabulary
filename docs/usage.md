@@ -9,6 +9,7 @@ Trang web tĩnh, không cần cài đặt hay mạng. Mở `index.html` bằng t
 | `index.html` | Danh sách 20 bài đọc về cuộc sống hằng ngày (~1500 từ/bài). |
 | `read.html?id=…` | Đọc bài. Bấm vào bất kỳ từ nào để xem nghĩa, loại từ, nghe phát âm 🔊 và bấm “Chưa biết” để thêm vào danh sách ôn tập. Nút “In bài này (A4)” in ra giấy A4 (khoảng 3 trang, ẩn toàn bộ nút bấm và màu đánh dấu). |
 | Thanh nghe (bài có file audio) | Nghe trọn bài bằng giọng đọc tự nhiên: phát/dừng, lùi/tới 5 giây, tốc độ 0.5×–1.5× (trang nhớ tốc độ bạn chọn), thanh tua, nút 🔁 lặp lại. Phím tắt: Space phát/dừng, ← → tua 5 giây. Thanh nghe không xuất hiện khi in. |
+| Nghe từ một từ | Trong bài có audio, bấm một từ rồi bấm “▶ Nghe từ đây (lùi 2 giây)”: thanh nghe nhảy tới chỗ từ đó được đọc, lùi 2 giây rồi phát. Nút chỉ hiện khi bài đã có file thời điểm của giọng đang chọn. |
 | `dictionary.html` | Từ điển hơn 3000 từ. Tìm bằng tiếng Anh hoặc tiếng Việt (gõ không dấu cũng được), lọc theo chữ cái, chỉ từ chưa biết, hoặc chỉ từ có trong bài đọc. |
 | `review.html` | Ôn tập: nền đen, nghĩa tiếng Việt chữ trắng ở giữa. Nút “Hiện tiếng Anh”, nút 🔊 đọc từ tiếng Anh, “Đã thuộc” để bỏ từ khỏi danh sách. Phím tắt: Space hiện/ẩn, ← → chuyển từ, S nghe. |
 
@@ -36,6 +37,13 @@ python scripts/generate-story-audio.py --model <thư-mục-chứa-mô-hình> [--
 
 ```
 python scripts/generate-word-audio.py --model <thư-mục-chứa-mô-hình> [--voice in]
+```
+
+- `audio/…/stories/<id>.timings.js` — thời điểm bắt đầu của từng từ trong file nghe trọn bài (dùng cho nút “Nghe từ đây”). Tạo bằng Whisper miễn phí, chạy lại mỗi khi tạo lại file nghe của bài:
+
+```
+pip install faster-whisper
+python scripts/align-story-audio.py [--voice in] [id bài…]   # không ghi id: làm mọi bài có file nghe
 ```
 
 Sau khi sửa, chạy:

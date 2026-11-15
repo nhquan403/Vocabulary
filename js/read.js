@@ -12,14 +12,17 @@
   document.title = story.title;
   document.getElementById('info').textContent = story.words + ' từ';
 
-  // Wrap every word token in a span carrying its dictionary headword.
+  // Wrap every word token in a span carrying its dictionary headword and its
+  // position in the story (data-i), which indexes the audio word timings.
+  var tokenIndex = 0;
   function renderText(text) {
     var out = '';
     var last = 0;
     text.replace(Lemma.TOKEN_RE, function (tok, offset) {
       out += esc(text.slice(last, offset));
       var l = App.lookup(tok);
-      out += l ? '<span class="w" data-l="' + esc(l) + '">' + esc(tok) + '</span>' : esc(tok);
+      var i = tokenIndex++;
+      out += l ? '<span class="w" data-l="' + esc(l) + '" data-i="' + i + '">' + esc(tok) + '</span>' : esc(tok);
       last = offset + tok.length;
       return tok;
     });
@@ -71,6 +74,7 @@
     document.getElementById('p-pos').textContent = App.posLabel(e.p);
     document.getElementById('p-meaning').textContent = e.m;
     document.getElementById('p-dict').href = 'dictionary.html?q=' + encodeURIComponent(e.w);
+    document.getElementById('p-listen').hidden = !(player && el && player.canPlayFrom(+el.dataset.i));
     updateToggle();
 
     popup.hidden = false;
@@ -114,6 +118,11 @@
     updateToggle();
     refreshMarks();
   });
+  document.getElementById('p-listen').addEventListener('click', function () {
+    if (!current || !current.el || !player) return;
+    player.playFrom(+current.el.dataset.i, 2);
+    closePopup();
+  });
   document.getElementById('p-close').addEventListener('click', closePopup);
   popup.addEventListener('click', function (ev) { ev.stopPropagation(); });
   document.addEventListener('click', closePopup);
@@ -126,12 +135,13 @@
     (prev ? '<a class="btn" href="read.html?id=' + encodeURIComponent(prev.id) + '">← ' + esc(prev.title) + '</a>' : '<span></span>') +
     (next ? '<a class="btn" href="read.html?id=' + encodeURIComponent(next.id) + '">' + esc(next.title) + ' →</a>' : '<span></span>');
 
-  setupPlayer();
+  var player = setupPlayer();
   refreshMarks();
 
   // Full-story audio player (only for stories that have an audio file).
+  // Returns { canPlayFrom(i), playFrom(i, secondsBefore) } or null.
   function setupPlayer() {
-    if (!story.audio) return;
+    if (!story.audio) return null;
     var $ = function (id) { return document.getElementById(id); };
     var audio = $('audio');
     var seek = $('a-seek');
@@ -143,9 +153,12 @@
 
     // Load the chosen voice's narration; if that file is missing, use the American one.
     // `at` and `resume` keep the listening position when the voice changes.
+    var timingKey = null; // matches the key written by scripts/align-story-audio.py
     function loadVoice(voice, at, resume) {
       audio.onerror = voice === 'us' ? null : function () { loadVoice('us', at, resume); };
       audio.src = App.storyAudioPath(story.id, voice);
+      timingKey = audio.getAttribute('src').replace(/\.mp3$/, '');
+      loadTimings(timingKey);
       audio.addEventListener('loadedmetadata', function restore() {
         audio.removeEventListener('loadedmetadata', restore);
         if (at) audio.currentTime = Math.min(at, audio.duration || at);
@@ -156,6 +169,17 @@
     window.addEventListener('voicechange', function (ev) {
       loadVoice(ev.detail, audio.currentTime, !audio.paused);
     });
+
+    // Word timings come as a small script next to the MP3 (works from file:// too).
+    function loadTimings(key) {
+      window.STORY_TIMINGS = window.STORY_TIMINGS || {};
+      if (window.STORY_TIMINGS[key] || document.querySelector('script[data-timings="' + key + '"]')) return;
+      var tag = document.createElement('script');
+      tag.src = key + '.timings.js';
+      tag.dataset.timings = key;
+      document.head.appendChild(tag);
+    }
+    function timings() { return (window.STORY_TIMINGS || {})[timingKey]; }
 
     function fmt(t) {
       if (!isFinite(t)) t = 0;
@@ -208,5 +232,16 @@
       else if (ev.key === 'ArrowLeft') { ev.preventDefault(); skip(-5); }
       else if (ev.key === 'ArrowRight') { ev.preventDefault(); skip(5); }
     });
+
+    return {
+      canPlayFrom: function (i) { var t = timings(); return !!t && t[i] != null; },
+      playFrom: function (i, before) {
+        var t = timings();
+        if (!t || t[i] == null) return;
+        audio.currentTime = Math.max(0, t[i] / 100 - before);
+        audio.play();
+        updateTime();
+      }
+    };
   }
 })();
