@@ -4,7 +4,7 @@
 Usage:
   pip install kokoro-onnx soundfile numpy
   node scripts/build.js            # js/data.js must exist
-  python scripts/generate-word-audio.py --model DIR [--voice us|in] [--force]
+  python scripts/generate-word-audio.py --model DIR [--voice us|in|in-strong] [--force]
 
 Writes audio/words/<file>.mp3 (us) or audio/in/words/<file>.mp3 (in), where <file> is the lowercase headword with "'" replaced
 by "_" (same rule as wordAudioPath() in js/common.js). Existing files are skipped unless
@@ -20,9 +20,9 @@ import tempfile
 import soundfile as sf
 from kokoro_onnx import Kokoro
 
+from voices import VOICES, voice_style
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-# --voice choice -> (Kokoro voice, output folder). Must match VOICES in js/common.js.
-VOICES = {"us": ("af_heart", "audio"), "in": ("hm_omega", "audio/in")}
 # Abbreviations the model would otherwise spell letter by letter.
 SPOKEN = {"mr": "Mister", "mrs": "Missus", "ms": "Miz", "tv": "T V"}
 
@@ -35,16 +35,18 @@ def load_dict():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--voice", choices=sorted(VOICES), default="us", help="us: American female, in: Indian male")
+    ap.add_argument("--voice", choices=sorted(VOICES), default="us", help="see scripts/voices.py")
     ap.add_argument("--model", required=True, help="folder with kokoro-v1.0.onnx and voices-v1.0.bin")
     ap.add_argument("--force", action="store_true", help="regenerate files that already exist")
     args = ap.parse_args()
-    voice, audio_root = VOICES[args.voice]
+    cfg = VOICES[args.voice]
+    audio_root = cfg["root"]
 
     entries = {k: v for k, v in load_dict().items() if v["p"] != "name"}
     out_dir = os.path.join(ROOT, audio_root, "words")
     os.makedirs(out_dir, exist_ok=True)
     tts = Kokoro(os.path.join(args.model, "kokoro-v1.0.onnx"), os.path.join(args.model, "voices-v1.0.bin"))
+    voice = voice_style(tts, args.voice)
 
     done = 0
     for key in sorted(entries):
@@ -53,7 +55,7 @@ def main():
         if os.path.exists(mp3) and not args.force:
             continue
         text = SPOKEN.get(key, entries[key]["w"])
-        audio, rate = tts.create(text, voice=voice, speed=0.9, lang="en-us")
+        audio, rate = tts.create(text, voice=voice, speed=0.9 * cfg["speed"], lang=cfg["lang"])
         with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
             sf.write(tmp.name, audio, rate)
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", tmp.name, "-ac", "1", "-b:a", "48k", mp3], check=True)

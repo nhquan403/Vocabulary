@@ -3,7 +3,7 @@
 
 Usage:
   pip install faster-whisper
-  python scripts/align-story-audio.py [--voice us|in] [--model base.en] [story ids...]
+  python scripts/align-story-audio.py [--voice us|in|in-strong] [--model base.en] [story ids...]
 
 With no story ids, every story that has an MP3 for that voice is aligned. For each
 <root>/stories/<id>.mp3 it writes <root>/stories/<id>.timings.js holding the start time
@@ -21,8 +21,9 @@ import numpy as np
 
 from faster_whisper import WhisperModel
 
+from voices import VOICES
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-VOICE_ROOTS = {"us": "audio", "in": "audio/in"}  # same folders as the audio generators
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’][A-Za-z]+)?")
 
 
@@ -81,12 +82,12 @@ def align(tokens, words):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--voice", choices=sorted(VOICE_ROOTS), default="us")
+    ap.add_argument("--voice", choices=sorted(VOICES), default="us")
     ap.add_argument("--model", default="base.en", help="faster-whisper model name")
     ap.add_argument("stories", nargs="*")
     args = ap.parse_args()
 
-    root = VOICE_ROOTS[args.voice]
+    root = VOICES[args.voice]["root"]
     folder = os.path.join(ROOT, root, "stories")
     ids = args.stories or sorted(f[:-4] for f in os.listdir(folder) if f.endswith(".mp3"))
     model = WhisperModel(args.model, device="cpu", compute_type="int8")

@@ -15,7 +15,7 @@ Trang web tĩnh, không cần cài đặt hay mạng. Mở `index.html` bằng t
 
 Danh sách từ chưa biết được lưu trong trình duyệt (`localStorage`), nên sẽ mất nếu xóa dữ liệu trình duyệt hoặc dùng trình duyệt/máy khác.
 
-Hộp chọn giọng trên thanh menu (🇺🇸 Giọng Mỹ: nữ `af_heart`, thư mục `audio/`; 🇮🇳 Giọng Ấn Độ: nam `hm_omega`, thư mục `audio/in/`) áp dụng cho thanh nghe bài đọc và nút 🔊 từng từ; trang nhớ giọng đã chọn. Nếu thiếu file của giọng đang chọn, trang dùng file giọng Mỹ; nếu vẫn thiếu, nút 🔊 dùng giọng có sẵn của trình duyệt.
+Hộp chọn giọng trên thanh menu (🇺🇸 Giọng Mỹ: nữ `af_heart`, thư mục `audio/`; 🇮🇳 Giọng Ấn Độ: nam `hm_omega`, thư mục `audio/in/`; 🇮🇳 Ấn Độ (đậm): `hm_omega` được phóng đại chất giọng, phát âm kiểu Anh, nhanh hơn 15%, thư mục `audio/in-strong/`; cấu hình trong `scripts/voices.py`) áp dụng cho thanh nghe bài đọc và nút 🔊 từng từ; trang nhớ giọng đã chọn. Nếu thiếu file của giọng đang chọn, trang dùng file giọng Mỹ; nếu vẫn thiếu, nút 🔊 dùng giọng có sẵn của trình duyệt.
 
 ## Sửa nội dung
 
@@ -25,25 +25,25 @@ Dữ liệu gốc nằm trong `data/src/`:
 - `irregular.txt` — dạng bất quy tắc `dạng|từ gốc` (went|go, children|child…).
 - `stories/NN-ten-bai.txt` — dòng đầu là tiêu đề, các đoạn cách nhau bởi một dòng trống.
 
-- `audio/stories/<id>.mp3` — file nghe trọn bài (giọng Ấn Độ: `audio/in/stories/`). Tạo bằng Kokoro miễn phí, thêm `--voice in` cho giọng Ấn Độ:
+- `audio/stories/<id>.mp3` — file nghe trọn bài (giọng Ấn Độ: `audio/in/stories/`). Tạo bằng Kokoro miễn phí, thêm `--voice in` hoặc `--voice in-strong` cho giọng Ấn Độ:
 
 ```
 pip install kokoro-onnx soundfile numpy
 # tải kokoro-v1.0.onnx và voices-v1.0.bin từ https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0
-python scripts/generate-story-audio.py --model <thư-mục-chứa-mô-hình> [--voice in] 02-going-to-the-market
+python scripts/generate-story-audio.py --model <thư-mục-chứa-mô-hình> [--voice in|in-strong] 02-going-to-the-market
 ```
 
 - `audio/words/<từ>.mp3` — file đọc từng từ (dấu `'` trong tên file đổi thành `_`, ví dụ `don_t.mp3`). Tạo hoặc bổ sung cho từ mới (bỏ qua file đã có):
 
 ```
-python scripts/generate-word-audio.py --model <thư-mục-chứa-mô-hình> [--voice in]
+python scripts/generate-word-audio.py --model <thư-mục-chứa-mô-hình> [--voice in|in-strong]
 ```
 
 - `audio/…/stories/<id>.timings.js` — thời điểm bắt đầu của từng từ trong file nghe trọn bài (dùng cho nút “Nghe từ đây”). Tạo bằng Whisper miễn phí, chạy lại mỗi khi tạo lại file nghe của bài:
 
 ```
 pip install faster-whisper
-python scripts/align-story-audio.py [--voice in] [id bài…]   # không ghi id: làm mọi bài có file nghe
+python scripts/align-story-audio.py [--voice in|in-strong] [id bài…]   # không ghi id: làm mọi bài có file nghe
 ```
 
 Sau khi sửa, chạy:

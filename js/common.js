@@ -28,10 +28,11 @@
     speechSynthesis.onvoiceschanged = pickVoice;
   }
 
-  // Recorded voices. Same folders as VOICES in scripts/generate-*-audio.py.
+  // Recorded voices. Same folders as VOICES in scripts/voices.py.
   var VOICES = {
     us: { label: '🇺🇸 Giọng Mỹ', root: 'audio' },
-    in: { label: '🇮🇳 Giọng Ấn Độ', root: 'audio/in' }
+    in: { label: '🇮🇳 Giọng Ấn Độ', root: 'audio/in' },
+    'in-strong': { label: '🇮🇳 Ấn Độ (đậm)', root: 'audio/in-strong' }
   };
   var VOICE_KEY = 'vocab.voice';
 
