@@ -89,24 +89,26 @@ h1 { font-size: 1.6rem; margin: .2rem 0 1rem; }
   font-family: Georgia, "Times New Roman", serif; font-size: 1.12rem; line-height: 1.75;
   text-align: justify; margin: 0 0 1em;
 }
-/* full-story audio player */
+/* full-story audio player: one compact row that sticks to the top while reading */
+body.reading .topbar { position: static; }
 .player {
-  position: sticky; top: 58px; z-index: 5;
-  display: flex; align-items: center; gap: .5rem; flex-wrap: wrap;
-  margin-bottom: 1rem; padding: .6rem .8rem;
-  background: var(--paper); border: 1px solid var(--line); border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,.05);
+  position: sticky; top: 0; z-index: 15;
+  display: flex; align-items: center; gap: .35rem;
+  margin-bottom: .75rem; padding: .35rem .5rem;
+  background: var(--paper); border: 1px solid var(--line); border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
 }
 .player[hidden] { display: none; }
 .pbtn {
-  min-height: 2.4rem; padding: .3rem .7rem; border: 1px solid var(--line); border-radius: 8px;
-  background: var(--paper); color: var(--ink); font: inherit; cursor: pointer;
+  min-height: 2rem; padding: .15rem .45rem; border: 1px solid var(--line); border-radius: 7px;
+  background: var(--paper); color: var(--ink); font: inherit; font-size: .85rem; cursor: pointer; white-space: nowrap;
 }
+.pbtn { flex: none; }
 .pbtn:hover { border-color: var(--accent); color: var(--accent); }
-.pbtn.play { width: 2.6rem; padding: 0; background: var(--accent); border-color: var(--accent); color: #fff; font-size: 1.1rem; }
+.pbtn.play { width: 2rem; padding: 0; background: var(--accent); border-color: var(--accent); color: #fff; font-size: .95rem; }
 .pbtn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
-.player .seek { flex: 1 1 180px; accent-color: var(--accent); }
-.player .time { font-variant-numeric: tabular-nums; color: var(--muted); font-size: .9rem; white-space: nowrap; }
+.player .seek { flex: 1 1 auto; min-width: 50px; accent-color: var(--accent); }
+.player .time { font-variant-numeric: tabular-nums; color: var(--muted); font-size: .78rem; white-space: nowrap; }
 
 .w { cursor: pointer; border-radius: 3px; }
 .w:hover { background: var(--accent-soft); }
@@ -195,9 +197,13 @@ body.review .topbar nav a.active, body.review .topbar nav a:hover { background: 
 }
 
 @media (max-width: 600px) {
-  .player { position: static; }
+  .player { gap: .25rem; }
   .sheet { padding: 1.2rem 1.1rem; }
   .sheet p { font-size: 1.05rem; text-align: left; }
   .dict .en { min-width: 6.5rem; }
   .dict .pos { display: none; }
+}
+
+@media (max-width: 480px) {
+  .player .time { display: none; }
 }
