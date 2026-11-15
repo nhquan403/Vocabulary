@@ -140,7 +140,22 @@
     var seeking = false;
 
     $('player').hidden = false;
-    audio.src = story.audio;
+
+    // Load the chosen voice's narration; if that file is missing, use the American one.
+    // `at` and `resume` keep the listening position when the voice changes.
+    function loadVoice(voice, at, resume) {
+      audio.onerror = voice === 'us' ? null : function () { loadVoice('us', at, resume); };
+      audio.src = App.storyAudioPath(story.id, voice);
+      audio.addEventListener('loadedmetadata', function restore() {
+        audio.removeEventListener('loadedmetadata', restore);
+        if (at) audio.currentTime = Math.min(at, audio.duration || at);
+        if (resume) audio.play();
+      });
+    }
+    loadVoice(App.getVoice(), 0, false);
+    window.addEventListener('voicechange', function (ev) {
+      loadVoice(ev.detail, audio.currentTime, !audio.paused);
+    });
 
     function fmt(t) {
       if (!isFinite(t)) t = 0;

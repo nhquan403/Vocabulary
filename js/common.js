@@ -28,25 +28,77 @@
     speechSynthesis.onvoiceschanged = pickVoice;
   }
 
-  // Recorded word audio (Kokoro voice); same file naming rule as scripts/generate-word-audio.py.
-  function wordAudioPath(word) {
-    return 'audio/words/' + encodeURIComponent(word.toLowerCase().replace(/'/g, '_')) + '.mp3';
+  // Recorded voices. Same folders as VOICES in scripts/generate-*-audio.py.
+  var VOICES = {
+    us: { label: '🇺🇸 Giọng Mỹ', root: 'audio' },
+    in: { label: '🇮🇳 Giọng Ấn Độ', root: 'audio/in' }
+  };
+  var VOICE_KEY = 'vocab.voice';
+
+  function getVoice() {
+    var v = null;
+    try { v = localStorage.getItem(VOICE_KEY); } catch (e) { /* storage unavailable */ }
+    return VOICES[v] ? v : 'us';
+  }
+  function setVoice(v) {
+    if (!VOICES[v]) return;
+    try { localStorage.setItem(VOICE_KEY, v); } catch (e) { /* storage unavailable */ }
+    window.dispatchEvent(new CustomEvent('voicechange', { detail: v }));
+  }
+
+  // File naming rule shared with scripts/generate-word-audio.py.
+  function wordAudioPath(word, voice) {
+    return VOICES[voice].root + '/words/' + encodeURIComponent(word.toLowerCase().replace(/'/g, '_')) + '.mp3';
+  }
+  function storyAudioPath(id, voice) {
+    return VOICES[voice].root + '/stories/' + encodeURIComponent(id) + '.mp3';
   }
 
   var player = null;
 
-  // Speak an English word: play its recorded MP3, or fall back to the browser voice.
+  // Speak an English word: play the chosen voice's MP3, then the American MP3,
+  // then the browser voice, stopping at the first one that works.
   function speak(text) {
     if ('speechSynthesis' in window) speechSynthesis.cancel();
     if (!player) player = new Audio();
     player.pause();
-    var fellBack = false;
-    function fallback() { if (!fellBack) { fellBack = true; speakWithBrowser(text); } }
-    player.onerror = fallback;
-    player.src = wordAudioPath(text);
-    var p = player.play();
-    if (p && p.catch) p.catch(function (e) { if (e.name !== 'AbortError') fallback(); });
+    var sources = [wordAudioPath(text, getVoice())];
+    if (getVoice() !== 'us') sources.push(wordAudioPath(text, 'us'));
+    var attempt = 0;
+    // onerror and the play() rejection can both report one failure; only the
+    // first report for the current attempt moves on to the next source.
+    function next() {
+      var src = sources.shift();
+      if (!src) { speakWithBrowser(text); return; }
+      var mine = ++attempt;
+      player.onerror = function () { if (mine === attempt) next(); };
+      player.src = src;
+      var p = player.play();
+      if (p && p.catch) p.catch(function (e) { if (e.name !== 'AbortError' && mine === attempt) next(); });
+    }
+    next();
   }
+
+  // Voice picker added to the top bar of every page.
+  function addVoicePicker() {
+    var bar = document.querySelector('.topbar');
+    if (!bar) return;
+    var sel = document.createElement('select');
+    sel.className = 'voice-picker';
+    sel.title = 'Chọn giọng đọc';
+    sel.setAttribute('aria-label', 'Chọn giọng đọc');
+    Object.keys(VOICES).forEach(function (k) {
+      var o = document.createElement('option');
+      o.value = k;
+      o.textContent = VOICES[k].label;
+      sel.appendChild(o);
+    });
+    sel.value = getVoice();
+    sel.addEventListener('change', function () { setVoice(sel.value); });
+    bar.appendChild(sel);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', addVoicePicker);
+  else addVoicePicker();
 
   function speakWithBrowser(text) {
     if (!('speechSynthesis' in window)) {
@@ -80,5 +132,8 @@
     });
   }
 
-  window.App = { Store: Store, speak: speak, lookup: lookup, posLabel: posLabel, escapeHtml: escapeHtml };
+  window.App = {
+    Store: Store, speak: speak, lookup: lookup, posLabel: posLabel, escapeHtml: escapeHtml,
+    getVoice: getVoice, storyAudioPath: storyAudioPath
+  };
 })();

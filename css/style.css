@@ -35,6 +35,12 @@ a { color: var(--accent); }
   padding: .4rem .8rem; border-radius: 999px; text-decoration: none; color: var(--ink);
 }
 .topbar nav a.active, .topbar nav a:hover { background: var(--accent-soft); color: var(--accent); }
+.voice-picker {
+  padding: .35rem .5rem; border: 1px solid var(--line); border-radius: 999px;
+  background: var(--paper); color: var(--ink); font: inherit; font-size: .9rem; cursor: pointer;
+}
+.voice-picker:hover { border-color: var(--accent); }
+body.review .voice-picker { background: #111; color: #ddd; border-color: #333; }
 .badge {
   display: inline-block; min-width: 1.5em; padding: 0 .4em; margin-left: .3em;
   border-radius: 999px; background: var(--accent); color: #fff; font-size: .8em; text-align: center;
