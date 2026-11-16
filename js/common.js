@@ -30,9 +30,9 @@
 
   // Recorded voices. Same folders as VOICES in scripts/voices.py.
   var VOICES = {
-    us: { label: '🇺🇸 Giọng Mỹ', root: 'audio' },
-    in: { label: '🇮🇳 Giọng Ấn Độ', root: 'audio/in' },
-    'in-strong': { label: '🇮🇳 Ấn Độ (đậm)', root: 'audio/in-strong' }
+    us: { label: '🇺🇸 Giọng Mỹ', short: '🇺🇸 Mỹ', root: 'audio' },
+    in: { label: '🇮🇳 Giọng Ấn Độ', short: '🇮🇳 Ấn', root: 'audio/in' },
+    'in-strong': { label: '🇮🇳 Ấn Độ (đậm)', short: '🇮🇳 Ấn đậm', root: 'audio/in-strong' }
   };
   var VOICE_KEY = 'vocab.voice';
 
@@ -80,23 +80,27 @@
     next();
   }
 
-  // Voice picker added to the top bar of every page.
+  // Voice picker: inside the sticky audio player when the page shows one
+  // (an element with id "voice-slot"), otherwise in the top bar.
   function addVoicePicker() {
-    var bar = document.querySelector('.topbar');
+    var slot = document.getElementById('voice-slot');
+    var inPlayer = !!slot && !slot.closest('[hidden]');
+    var bar = inPlayer ? slot : document.querySelector('.topbar');
     if (!bar) return;
     var sel = document.createElement('select');
-    sel.className = 'voice-picker';
+    sel.className = inPlayer ? 'voice-picker pbtn' : 'voice-picker';
     sel.title = 'Chọn giọng đọc';
     sel.setAttribute('aria-label', 'Chọn giọng đọc');
     Object.keys(VOICES).forEach(function (k) {
       var o = document.createElement('option');
       o.value = k;
-      o.textContent = VOICES[k].label;
+      o.textContent = inPlayer ? VOICES[k].short : VOICES[k].label;
       sel.appendChild(o);
     });
     sel.value = getVoice();
     sel.addEventListener('change', function () { setVoice(sel.value); });
-    bar.appendChild(sel);
+    if (inPlayer) slot.replaceWith(sel);
+    else bar.appendChild(sel);
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', addVoicePicker);
   else addVoicePicker();

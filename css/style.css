@@ -206,4 +206,13 @@ body.review .topbar nav a.active, body.review .topbar nav a:hover { background: 
 
 @media (max-width: 480px) {
   .player .time { display: none; }
+  /* two short rows on phones: buttons on top, the seek bar below */
+  .player { flex-wrap: wrap; }
+  .player .seek { order: 1; flex-basis: 100%; }
+  .player .pbtn { padding: .1rem .3rem; font-size: .8rem; }
+  .player .pbtn.play { padding: 0; }
+}
+
+@media (max-width: 380px) {
+  .player .lbl { display: none; }
 }
