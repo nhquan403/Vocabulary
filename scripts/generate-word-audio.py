@@ -4,7 +4,7 @@
 Usage:
   pip install kokoro-onnx soundfile numpy
   node scripts/build.js            # js/data.js must exist
-  python scripts/generate-word-audio.py --model DIR [--voice us|in|in-strong] [--force]
+  python scripts/generate-word-audio.py --model DIR [--voice us|in|in-strong] [--force] [--story ID ...]
 
 Writes audio/words/<file>.mp3 (us) or audio/in/words/<file>.mp3 (in), where <file> is the lowercase headword with "'" replaced
 by "_" (same rule as wordAudioPath() in js/common.js). Existing files are skipped unless
@@ -38,11 +38,16 @@ def main():
     ap.add_argument("--voice", choices=sorted(VOICES), default="us", help="see scripts/voices.py")
     ap.add_argument("--model", required=True, help="folder with kokoro-v1.0.onnx and voices-v1.0.bin")
     ap.add_argument("--force", action="store_true", help="regenerate files that already exist")
+    ap.add_argument("--story", nargs="+", metavar="ID", help="only the words used in these stories")
     args = ap.parse_args()
     cfg = VOICES[args.voice]
     audio_root = cfg["root"]
 
     entries = {k: v for k, v in load_dict().items() if v["p"] != "name"}
+    if args.story:
+        used = subprocess.run(["node", os.path.join(ROOT, "scripts", "story-words.js"), *args.story],
+                              check=True, capture_output=True, text=True).stdout.split()
+        entries = {k: entries[k] for k in used}
     out_dir = os.path.join(ROOT, audio_root, "words")
     os.makedirs(out_dir, exist_ok=True)
     tts = Kokoro(os.path.join(args.model, "kokoro-v1.0.onnx"), os.path.join(args.model, "voices-v1.0.bin"))

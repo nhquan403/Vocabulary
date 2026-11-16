@@ -39,6 +39,8 @@ python scripts/generate-story-audio.py --model <thư-mục-chứa-mô-hình> [--
 python scripts/generate-word-audio.py --model <thư-mục-chứa-mô-hình> [--voice in|in-strong]
 ```
 
+Thêm `--story <id bài>` để chỉ tạo cho những từ xuất hiện trong bài đó (danh sách lấy bằng `node scripts/story-words.js <id bài>`).
+
 - `audio/…/stories/<id>.timings.js` — thời điểm bắt đầu của từng từ trong file nghe trọn bài (dùng cho nút “Nghe từ đây”). Tạo bằng Whisper miễn phí, chạy lại mỗi khi tạo lại file nghe của bài:
 
 ```
